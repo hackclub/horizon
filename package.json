@@ -6,13 +6,19 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "format": "prettier --ignore-path ./.prettierignore --write ."
   },
   "dependencies": {
     "eslint": "8.29.0",
     "eslint-config-next": "13.0.6",
     "next": "13.0.6",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-ticker": "^1.3.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.0",
+    "sass": "^1.57.1"
   }
 }
