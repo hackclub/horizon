@@ -28,7 +28,7 @@ export default function Index() {
           <h1>Skyscrapper is a hackathon.</h1>
           <p>
             Epoch is a social coding event where teens come together for a
-            weekend to discover the joy of code, build creative projects and
+            day to discover the joy of code, build creative projects and
             share their projects with the world.
           </p>
           <p>
@@ -96,7 +96,7 @@ export default function Index() {
             />
             <Question
               summary="What do I need to bring to Epoch?"
-              answer="Your laptop, chargers, anything for your hack (hardware?), toiletries, sleeping bags, and an open mind."
+              answer="Your laptop, chargers, anything for your hack (hardware?), and an open mind."
             />
           </div>
           <div>
