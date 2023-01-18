@@ -143,7 +143,7 @@ export default function Index() {
         <figure className="folded" style={{ zIndex: 1 }}>
           <iframe
             className="fold-me-please"
-            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12087.926659402143!2d-73.973794!3d40.762428!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8e9cfc7444d8f876!2sTrump%20Tower!5e0!3m2!1sen!2sus!4v1673911188343!5m2!1sen!2sus"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.5022506158507!2d-74.01192858416682!3d40.706958745860106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a1700286efb%3A0x5358bf9fda32dea1!2s40%20Wall%20Street%20-%20The%20Trump%20Building!5e0!3m2!1sen!2sus!4v1674057574341!5m2!1sen!2sus"
             width="100%"
             height="600"
             allowfullscreen=""
