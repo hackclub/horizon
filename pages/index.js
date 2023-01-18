@@ -27,7 +27,7 @@ export default function Index() {
         <div id="about" style={{ position: 'relative', zIndex: '999' }}>
           <h1>Skyscrapper is a hackathon.</h1>
           <p>
-            Epoch is a social coding event where teens come together for a
+            Skyscrapper is a social coding event where teens come together for a
             day to discover the joy of code, build creative projects and
             share their projects with the world.
           </p>
@@ -37,12 +37,12 @@ export default function Index() {
             volunteers. We make things. We help one another. We have fun.
           </p>
           <p>
-            Epoch is fully open source, funded by, and run by the Hack Club
-            community. Hack Clubbers are organising Epoch in public on the Hack
+            Skyscrapper is fully open source, funded by, and run by the Hack Club
+            community. Hack Clubbers are organising Skyscrapper in public on the Hack
             Club Slack and with fully transparent finances using Hack Club Bank.
-            Everything from this website to Epoch's dinner menu, was created by
+            Everything from this website to Skyscrapper's dinner menu, was created by
             teenagers just like yourself and you're welcome to help out in
-            #epoch-bts on the Slack.
+            #skyscrapper on the Slack.
           </p>
         </div>
         <div className="cookies">
@@ -83,8 +83,8 @@ export default function Index() {
         <div id="faq">
           <div>
             <Question
-              summary="Am I eligible to participate in Epoch?"
-              answer="If you're eighteen or under, yes, we are so excited to see you in Cyber City! If you're over 18 but still in high school, shoot us a mail at epoch@hackclub.com."
+              summary="Am I eligible to participate in Skyscrapper?"
+              answer="If you're eighteen or under, yes, we are so excited to see you in NYC! If you're over 18 but still in high school, shoot us a mail at skyscrapper@hackclub.com."
             />
             <Question
               summary="Does participating cost anything?"
@@ -95,7 +95,7 @@ export default function Index() {
               answer="This hackathon is for hackers of all skill levels! We'll have workshops and other events so join us and let's learn together. If you'd like to start exploring some introductory projects, check out Hack Club Workshops."
             />
             <Question
-              summary="What do I need to bring to Epoch?"
+              summary="What do I need to bring to Skyscrapper?"
               answer="Your laptop, chargers, anything for your hack (hardware?), and an open mind."
             />
           </div>
@@ -118,16 +118,16 @@ export default function Index() {
               </h1>
             </div>
             <Question
-              summary="What can I make at Epoch?"
+              summary="What can I make at Skyscrapper?"
               answer="Anything! Apps, art, sites, and hardware projects are all perfect for a hackathon. Check out what Hack Clubbers are making every day!"
             />
             <Question
               summary="My parents are worried! What should I do?"
-              answer="We're here to help, ask them to reach out to us at epoch@hackclub.com and we'll make sure to answer all their questions. Epoch will be supervised by background checked staff and overseen by 24/7 security staff. Read more in our parent's guide."
+              answer="We're here to help, ask them to reach out to us at skyscrapper@hackclub.com and we'll make sure to answer all their questions. Skyscrapper will be supervised by background checked staff and overseen by 24/7 security staff. Read more in our parent's guide."
             />
             <Question
               summary="I have more questions, how can I reach out?"
-              answer="Contact us! Reach out on #epoch on the Hack Club Slack or email us at epoch@hackclub.com We're always ready to answer all your questions!"
+              answer="Contact us! Reach out on #epoch on the Hack Club Slack or email us at skyscrapper@hackclub.com We're always ready to answer all your questions!"
             />
           </div>
         </div>
