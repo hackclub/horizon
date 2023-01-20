@@ -83,6 +83,7 @@ export default function App({ Component, pageProps }) {
           rel="manifest"
           href="https://assets.hackclub.com/favicons/site.webmanifest"
         />
+        <title>Horizon - high school all-girls hackathon in NYC</title>
       </Head>
       <Component {...pageProps} />
     </>
