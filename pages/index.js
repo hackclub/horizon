@@ -9,7 +9,7 @@ export default function Index() {
     <>
       <header>
         <h6>Hack Club + Girl Scouts present...</h6>
-        <h1>Skyscrapper</h1>
+        <h1>Horizon</h1>
         <h3>Mar 25 &middot; 10AM - 5PM &middot; Girl Scouts HQ, NYC</h3>
         <Image alt="Skyline" fill={true} src={skyline} />
       </header>
@@ -25,11 +25,11 @@ export default function Index() {
           <Image alt="Cookie" id="cookie2" src={cookieImage} />
         </div>
         <div id="about" style={{ position: 'relative', zIndex: '999' }}>
-          <h1>Skyscrapper is a hackathon.</h1>
+          <h1>Horizon is a hackathon.</h1>
           <p>
-            Skyscrapper is a social coding event where teens come together for a
-            day to discover the joy of code, build creative projects and
-            share their projects with the world.
+            Horizon is a social coding event where teens come together for a day
+            to discover the joy of code, build creative projects and share their
+            projects with the world.
           </p>
           <p>
             Hack Club is a worldwide community of high school hackers. We’re
@@ -37,12 +37,19 @@ export default function Index() {
             volunteers. We make things. We help one another. We have fun.
           </p>
           <p>
-            Skyscrapper is fully open source, funded by, and run by the Hack Club
-            community. Hack Clubbers are organising Skyscrapper in public on the Hack
-            Club Slack and with fully transparent finances using Hack Club Bank.
-            Everything from this website to Skyscrapper's dinner menu, was created by
-            teenagers just like yourself and you're welcome to help out in
-            #skyscrapper on the Slack.
+            Horizon is fully open source, funded by, and run by the Hack Club
+            community, as well as the Girl Scouts of NY. Hack Clubbers are
+            organizing Horizon in public on the Hack Club Slack and with fully
+            transparent finances using Hack Club Bank. Everything from this
+            website to Horizon's dinner menu was created by teenagers just like
+            yourself, and you're welcome to help out in #horizon on{' '}
+            <a
+              href="https://hackclub.com/slack/"
+              target="_blank"
+              rel="noreferrer">
+              the Slack
+            </a>
+            !
           </p>
         </div>
         <div className="cookies">
@@ -54,28 +61,69 @@ export default function Index() {
       <section>
         <div id="gallery">
           <div style={{ transform: `rotate(3deg)` }}>
-            <img alt="Image" src="/images/0.jpg" />
-            <p>Assemble</p>
+            <img alt="Image" src="/images/5.jpg" />
+            <p>
+              <a
+                href="https://assemble.hackclub.com/launch"
+                target="_blank"
+                rel="noreferrer">
+                Assemble
+              </a>
+              , the first in-person hackathon of its kind since the pandemic.
+            </p>
           </div>
           <div style={{ transform: `rotate(-2deg)` }}>
             <img alt="Image" src="/images/1.jpg" />
-            <p>More Assemble</p>
+            <p>Hacking away at Assemble!</p>
           </div>
           <div style={{ transform: `rotate(1deg)` }}>
             <img alt="Image" src="/images/2.jpg" />
-            <p>Some more placeholder text</p>
+            <p>
+              Shot from{' '}
+              <a
+                href="https://epochba.hackclub.com/"
+                target="_blank"
+                rel="noreferrer">
+                Epoch BA
+              </a>
+              , a satellite hackathon around{' '}
+              <a
+                href="https://epoch.hackclub.com"
+                target="_blank"
+                rel="noreferrer">
+                Epoch
+              </a>
+              !
+            </p>
           </div>
           <div style={{ transform: `rotate(-3deg)` }}>
             <img alt="Image" src="/images/3.jpg" />
-            <p>A cool scene</p>
+            <p>
+              Workshop in action at{' '}
+              <a
+                href="https://assemble.hackclub.com/launch"
+                target="_blank"
+                rel="noreferrer">
+                Assemble
+              </a>
+              !
+            </p>
           </div>
           <div style={{ transform: `rotate(2.5deg)` }}>
             <img alt="Image" src="/images/4.jpg" />
-            <p>Another placeholder</p>
+            <p>
+              <a
+                href="https://zephyr.hackclub.com/"
+                target="_blank"
+                rel="noreferrer">
+                Zephyr
+              </a>
+              , a cross-country hacking event!
+            </p>
           </div>
-          <div style={{ transform: `rotate(-1.5deg)` }}>
-            <img alt="Image" src="/images/5.jpg" />
-            <p>Okay, one last image</p>
+          <div style={{ transform: `rotate(-1deg)` }}>
+            <img alt="Image" src="/images/0.jpg" />
+            <p>Dino fun at Assemble!</p>
           </div>
         </div>
       </section>
@@ -83,20 +131,53 @@ export default function Index() {
         <div id="faq">
           <div>
             <Question
-              summary="Am I eligible to participate in Skyscrapper?"
-              answer="If you're eighteen or under, yes, we are so excited to see you in NYC! If you're over 18 but still in high school, shoot us a mail at skyscrapper@hackclub.com."
+              summary="Am I eligible to participate in Horizon?"
+              answer={
+                <p>
+                  If you're eighteen or under and identify as female or
+                  non-binary, yes, we are so excited to see you for Horizon! If
+                  you're over 18 but still in high school, shoot us a mail at{' '}
+                  <a href="mailto:horizon@hackclub.com">horizon@hackclub.com</a>
+                  .
+                </p>
+              }
             />
             <Question
               summary="Does participating cost anything?"
-              answer="Nothing! We’ll have meals, snacks, and beverages onsite at the hackathon, as well as swag, prizes, and fun mini-events."
+              answer={
+                <p>
+                  Nothing! We’ll have meals, snacks, and beverages onsite at the
+                  hackathon, as well as swag and fun mini-events.
+                </p>
+              }
             />
             <Question
               summary="I'm not that good at coding, can I join?"
-              answer="This hackathon is for hackers of all skill levels! We'll have workshops and other events so join us and let's learn together. If you'd like to start exploring some introductory projects, check out Hack Club Workshops."
+              answer={
+                <p>
+                  This hackathon is for hackers of all skill levels! It's
+                  completely beginner-friendly. In fact, we'll have workshops
+                  and other events, so join us and let's learn together. If
+                  you'd like to start exploring some introductory projects,
+                  check out{' '}
+                  <a
+                    href="https://workshops.hackclub.com/"
+                    target="_blank"
+                    rel="noreferrer">
+                    Hack Club Workshops
+                  </a>
+                  .
+                </p>
+              }
             />
             <Question
-              summary="What do I need to bring to Skyscrapper?"
-              answer="Your laptop, chargers, anything for your hack (hardware?), and an open mind."
+              summary="What do I need to bring to Horizon?"
+              answer={
+                <p>
+                  Your laptop, chargers, anything for your hack (hardware?), and
+                  an open mind.
+                </p>
+              }
             />
           </div>
           <div>
@@ -118,16 +199,60 @@ export default function Index() {
               </h1>
             </div>
             <Question
-              summary="What can I make at Skyscrapper?"
-              answer="Anything! Apps, art, sites, and hardware projects are all perfect for a hackathon. Check out what Hack Clubbers are making every day!"
+              summary="What can I make at Horizon?"
+              answer={
+                <p>
+                  Anything! Apps, art, sites, and hardware projects are all
+                  perfect for a hackathon. Check out what{' '}
+                  <a
+                    href="https://hackclub.com"
+                    target="_blank"
+                    rel="noreferrer">
+                    Hack Clubbers
+                  </a>{' '}
+                  are{' '}
+                  <a
+                    href="https://scrapbook.hackclub.com"
+                    target="_blank"
+                    rel="noreferrer">
+                    making every day!
+                  </a>
+                </p>
+              }
             />
             <Question
               summary="My parents are worried! What should I do?"
-              answer="We're here to help, ask them to reach out to us at skyscrapper@hackclub.com and we'll make sure to answer all their questions. Skyscrapper will be supervised by background checked staff and overseen by 24/7 security staff. Read more in our parent's guide."
+              answer={
+                <p>
+                  We're here to help, ask them to reach out to us at{' '}
+                  <a href="mailto:horizon@hackclub.com">horizon@hackclub.com</a>{' '}
+                  and we'll make sure to answer all their questions. Horizon
+                  will be supervised by background checked staff and overseen by
+                  24/7 security staff.
+                </p>
+              }
             />
             <Question
               summary="I have more questions, how can I reach out?"
-              answer="Contact us! Reach out on #epoch on the Hack Club Slack or email us at skyscrapper@hackclub.com We're always ready to answer all your questions!"
+              answer={
+                <p>
+                  Contact us! Reach out on #horizon on the{' '}
+                  <a
+                    href="https://hackclub.com/slack/"
+                    target="_blank"
+                    rel="noreferrer">
+                    Hack Club Slack
+                  </a>{' '}
+                  or email us at{' '}
+                  <a
+                    href="mailto:horizon@hackclub.com"
+                    target="_blank"
+                    rel="noreferrer">
+                    horizon@hackclub.com
+                  </a>
+                  . We're always ready to answer all your questions!
+                </p>
+              }
             />
           </div>
         </div>
@@ -146,9 +271,9 @@ export default function Index() {
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.5022506158507!2d-74.01192858416682!3d40.706958745860106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a1700286efb%3A0x5358bf9fda32dea1!2s40%20Wall%20Street%20-%20The%20Trump%20Building!5e0!3m2!1sen!2sus!4v1674057574341!5m2!1sen!2sus"
             width="100%"
             height="600"
-            allowfullscreen=""
+            allowFullScreen=""
             loading="lazy"
-            referrerpolicy="no-referrer-when-downgrade"
+            referrerPolicy="no-referrer-when-downgrade"
           />
 
           <span className="folds main">
