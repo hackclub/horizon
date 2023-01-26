@@ -73,8 +73,8 @@ export default function Index() {
             </p>
           </div>
           <div style={{ transform: `rotate(-2deg)` }}>
-            <img alt="Image" src="/images/1.jpg" />
-            <p>Hacking away at Assemble!</p>
+            <img alt="Image" src="https://cloud-lfsmq1wsw-hack-club-bot.vercel.app/1hack_club_assemble_ltnj_02330.jpg" />
+            <p>Presenting their projects at Assemble!</p>
           </div>
           <div style={{ transform: `rotate(1deg)` }}>
             <img alt="Image" src="/images/2.jpg" />
@@ -97,7 +97,7 @@ export default function Index() {
             </p>
           </div>
           <div style={{ transform: `rotate(-3deg)` }}>
-            <img alt="Image" src="/images/3.jpg" />
+            <img alt="Image" src="https://cloud-b29ke7r2j-hack-club-bot.vercel.app/0hack_club_assemble_ltnj_00611.jpg" />
             <p>
               Workshop in action at{' '}
               <a
