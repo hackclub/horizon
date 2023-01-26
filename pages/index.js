@@ -110,15 +110,15 @@ export default function Index() {
             </p>
           </div>
           <div style={{ transform: `rotate(2.5deg)` }}>
-            <img alt="Image" src="/images/4.jpg" />
+            <img alt="Image" src="https://cloud-eb401ritr-hack-club-bot.vercel.app/0bmc_8978.jpg" />
             <p>
-              <a
-                href="https://zephyr.hackclub.com/"
+             Hanging out at  
+               <a
+                href="https://epoch.hackclub.com"
                 target="_blank"
                 rel="noreferrer">
-                Zephyr
+                Epoch
               </a>
-              , a cross-country hacking event!
             </p>
           </div>
           <div style={{ transform: `rotate(-1deg)` }}>
