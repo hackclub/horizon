@@ -141,11 +141,8 @@ export default function Index() {
               summary="Am I eligible to participate in Horizon?"
               answer={
                 <p>
-                  If you're eighteen or under and identify as female or
-                  non-binary, yes, we are so excited to see you for Horizon! If
-                  you're over 18 but still in high school, shoot us a mail at{' '}
-                  <a href="mailto:horizon@hackclub.com">horizon@hackclub.com</a>
-                  .
+                  This event is open to Cadettes, Seniors, and Ambassadors. 
+                  Girl Scouts can sign up on the GSGNY registration page. (Link coming soon!)
                 </p>
               }
             />
@@ -153,8 +150,7 @@ export default function Index() {
               summary="Does participating cost anything?"
               answer={
                 <p>
-                  Nothing! We’ll have meals, snacks, and beverages onsite at the
-                  hackathon, as well as swag and fun mini-events.
+                  It is $30 per Girl Scout. This cost covers food, snacks, and program goodies.
                 </p>
               }
             />
@@ -181,8 +177,7 @@ export default function Index() {
               summary="What do I need to bring to Horizon?"
               answer={
                 <p>
-                  Your laptop, chargers, anything for your hack (hardware?), and
-                  an open mind.
+                  Bring a laptop if you have one, and also bring a waterbottle!
                 </p>
               }
             />
@@ -243,21 +238,7 @@ export default function Index() {
               summary="I have more questions, how can I reach out?"
               answer={
                 <p>
-                  Contact us! Reach out on #horizon on the{' '}
-                  <a
-                    href="https://hackclub.com/slack/"
-                    target="_blank"
-                    rel="noreferrer">
-                    Hack Club Slack
-                  </a>{' '}
-                  or email us at{' '}
-                  <a
-                    href="mailto:horizon@hackclub.com"
-                    target="_blank"
-                    rel="noreferrer">
-                    horizon@hackclub.com
-                  </a>
-                  . We're always ready to answer all your questions!
+                  Girl Scouts can reach out to <a href="mailto:stem@girlscoutsnyc.org">stem@girlscoutsnyc.org</a> with any questions or concerns.
                 </p>
               }
             />
