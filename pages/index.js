@@ -73,8 +73,15 @@ export default function Index() {
             </p>
           </div>
           <div style={{ transform: `rotate(-2deg)` }}>
-            <img alt="Image" src="https://cloud-lfsmq1wsw-hack-club-bot.vercel.app/1hack_club_assemble_ltnj_02330.jpg" />
-            <p>Presenting their projects at Assemble!</p>
+            <img alt="Image" src="/images/slh.jpg" />
+            <p>Taken at {' '}
+              <a
+                href="https://www.segolilyhacks.com/"
+                target="_blank"
+                rel="noreferrer">
+                Sego Lily Hacks
+              </a> {' '}
+              in Salt Lake City!</p>
           </div>
           <div style={{ transform: `rotate(1deg)` }}>
             <img alt="Image" src="/images/2.jpg" />
@@ -112,7 +119,7 @@ export default function Index() {
           <div style={{ transform: `rotate(2.5deg)` }}>
             <img alt="Image" src="https://cloud-eb401ritr-hack-club-bot.vercel.app/0bmc_8978.jpg" />
             <p>
-             Hanging out at  
+             Hanging out at{' '}  
                <a
                 href="https://epoch.hackclub.com"
                 target="_blank"
@@ -134,7 +141,8 @@ export default function Index() {
               summary="Am I eligible to participate in Horizon?"
               answer={
                 <p>
-                  This event is open to Cadettes, Seniors, and Ambassadors. Girl Scouts can sign up on the GSGNY registration page. (Link coming soon!)
+                  This event is open to Cadettes, Seniors, and Ambassadors. 
+                  Girl Scouts can sign up on the GSGNY registration page. (Link coming soon!)
                 </p>
               }
             />
@@ -169,8 +177,7 @@ export default function Index() {
               summary="What do I need to bring to Horizon?"
               answer={
                 <p>
-                  Your laptop, chargers, anything for your hack (hardware?), and
-                  an open mind.
+                  Bring a laptop if you have one, and also bring a waterbottle!
                 </p>
               }
             />
@@ -231,21 +238,7 @@ export default function Index() {
               summary="I have more questions, how can I reach out?"
               answer={
                 <p>
-                  Contact us! Reach out on #horizon on the{' '}
-                  <a
-                    href="https://hackclub.com/slack/"
-                    target="_blank"
-                    rel="noreferrer">
-                    Hack Club Slack
-                  </a>{' '}
-                  or email us at{' '}
-                  <a
-                    href="mailto:horizon@hackclub.com"
-                    target="_blank"
-                    rel="noreferrer">
-                    horizon@hackclub.com
-                  </a>
-                  . We're always ready to answer all your questions!
+                  Girl Scouts can reach out to <a href="mailto:stem@girlscoutsnyc.org">stem@girlscoutsnyc.org</a> with any questions or concerns.
                 </p>
               }
             />
