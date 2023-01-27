@@ -134,11 +134,7 @@ export default function Index() {
               summary="Am I eligible to participate in Horizon?"
               answer={
                 <p>
-                  If you're eighteen or under and identify as female or
-                  non-binary, yes, we are so excited to see you for Horizon! If
-                  you're over 18 but still in high school, shoot us a mail at{' '}
-                  <a href="mailto:horizon@hackclub.com">horizon@hackclub.com</a>
-                  .
+                  This event is open to Cadettes, Seniors, and Ambassadors. Girl Scouts can sign up on the GSGNY registration page. (Link coming soon!)
                 </p>
               }
             />
@@ -146,8 +142,7 @@ export default function Index() {
               summary="Does participating cost anything?"
               answer={
                 <p>
-                  Nothing! We’ll have meals, snacks, and beverages onsite at the
-                  hackathon, as well as swag and fun mini-events.
+                  It is $30 per Girl Scout. This cost covers food, snacks, and program goodies.
                 </p>
               }
             />
