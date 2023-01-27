@@ -257,55 +257,7 @@ export default function Index() {
           </div>
         </div>
       </section>
-      <section
-        id="grass-section"
-        style={{
-          padding: '0 2rem 1rem 2rem'
-        }}>
-        <h1 style={{ zIndex: 1 }}>
-          Come cultivate the craft of hacking with us!
-        </h1>
-        <figure className="folded" style={{ zIndex: 1 }}>
-          <iframe
-            className="fold-me-please"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.5022506158507!2d-74.01192858416682!3d40.706958745860106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a1700286efb%3A0x5358bf9fda32dea1!2s40%20Wall%20Street%20-%20The%20Trump%20Building!5e0!3m2!1sen!2sus!4v1674057574341!5m2!1sen!2sus"
-            width="100%"
-            height="600"
-            allowFullScreen=""
-            loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-          />
-
-          <span className="folds main">
-            <span className="cell main-1"></span>
-            <span className="cell main-2"></span>
-            <span className="cell main-1"></span>
-            <span className="cell main-2"></span>
-            <span className="cell main-1"></span>
-          </span>
-
-          <span className="folds vertical">
-            <span className="cell vertical-1"></span>
-            <span className="cell vertical-2"></span>
-            <span className="cell vertical-3"></span>
-            <span className="cell vertical-4"></span>
-            <span className="cell vertical-5"></span>
-          </span>
-
-          <span className="folds horizontal">
-            <span className="cell horizontal-1"></span>
-            <span className="cell horizontal-2"></span>
-            <span className="cell horizontal-1"></span>
-            <span className="cell horizontal-2"></span>
-            <span className="cell horizontal-1"></span>
-            <span className="cell horizontal-3"></span>
-            <span className="cell horizontal-4"></span>
-            <span className="cell horizontal-3"></span>
-            <span className="cell horizontal-4"></span>
-            <span className="cell horizontal-3"></span>
-          </span>
-        </figure>
-      </section>
+      
     </>
   )
 }
