@@ -8,9 +8,11 @@ export default function Index() {
   return (
     <>
       <header>
-        <h6>Hack Club + Girl Scouts present...</h6>
+        <h6>Hack Club + Girl Scouts of Greater NY present...</h6>
         <h1>Horizon</h1>
-        <h3>Mar 25 &middot; 10AM - 5PM &middot; Girl Scouts HQ, NYC</h3>
+        <h3>
+          Mar 25 &middot; 9&#58;30AM - 5&#58;30PM &middot; Girl Scouts HQ, NYC
+        </h3>
         <Image alt="Skyline" fill={true} src={skyline} />
       </header>
       <section
@@ -73,7 +75,10 @@ export default function Index() {
             </p>
           </div>
           <div style={{ transform: `rotate(-2deg)` }}>
-            <img alt="Image" src="https://cloud-lfsmq1wsw-hack-club-bot.vercel.app/1hack_club_assemble_ltnj_02330.jpg" />
+            <img
+              alt="Image"
+              src="https://cloud-lfsmq1wsw-hack-club-bot.vercel.app/1hack_club_assemble_ltnj_02330.jpg"
+            />
             <p>Presenting their projects at Assemble!</p>
           </div>
           <div style={{ transform: `rotate(1deg)` }}>
@@ -97,7 +102,10 @@ export default function Index() {
             </p>
           </div>
           <div style={{ transform: `rotate(-3deg)` }}>
-            <img alt="Image" src="https://cloud-b29ke7r2j-hack-club-bot.vercel.app/0hack_club_assemble_ltnj_00611.jpg" />
+            <img
+              alt="Image"
+              src="https://cloud-b29ke7r2j-hack-club-bot.vercel.app/0hack_club_assemble_ltnj_00611.jpg"
+            />
             <p>
               Workshop in action at{' '}
               <a
@@ -110,10 +118,13 @@ export default function Index() {
             </p>
           </div>
           <div style={{ transform: `rotate(2.5deg)` }}>
-            <img alt="Image" src="https://cloud-eb401ritr-hack-club-bot.vercel.app/0bmc_8978.jpg" />
+            <img
+              alt="Image"
+              src="https://cloud-eb401ritr-hack-club-bot.vercel.app/0bmc_8978.jpg"
+            />
             <p>
-             Hanging out at  
-               <a
+              Hanging out at
+              <a
                 href="https://epoch.hackclub.com"
                 target="_blank"
                 rel="noreferrer">
@@ -134,11 +145,9 @@ export default function Index() {
               summary="Am I eligible to participate in Horizon?"
               answer={
                 <p>
-                  If you're eighteen or under and identify as female or
-                  non-binary, yes, we are so excited to see you for Horizon! If
-                  you're over 18 but still in high school, shoot us a mail at{' '}
-                  <a href="mailto:horizon@hackclub.com">horizon@hackclub.com</a>
-                  .
+                  This event is open to Cadettes, Seniors, and Ambassadors. Girl
+                  Scouts can sign up on the GSGNY registration page. &#40;Link
+                  coming soon!&#41;
                 </p>
               }
             />
@@ -146,8 +155,8 @@ export default function Index() {
               summary="Does participating cost anything?"
               answer={
                 <p>
-                  Nothing! We’ll have meals, snacks, and beverages onsite at the
-                  hackathon, as well as swag and fun mini-events.
+                  It is &#36;30 per Girl Scout. This cost covers food, snacks,
+                  and program goodies.
                 </p>
               }
             />
@@ -174,8 +183,8 @@ export default function Index() {
               summary="What do I need to bring to Horizon?"
               answer={
                 <p>
-                  Your laptop, chargers, anything for your hack (hardware?), and
-                  an open mind.
+                  Your laptop, chargers, anything for your hack
+                  &#40;hardware?&#41;, waterbottle, and an open mind.
                 </p>
               }
             />
@@ -250,7 +259,15 @@ export default function Index() {
                     rel="noreferrer">
                     horizon@hackclub.com
                   </a>
-                  . We're always ready to answer all your questions!
+                  . Girl Scouts can reach out to{' '}
+                  <a
+                    href="mailto:stem@girlscoutsnyc.org"
+                    target="_blank"
+                    rel="noreferrer">
+                    stem@girlscoutsnyc.org
+                  </a>{' '}
+                  for any questions or concerns. We're always ready to answer
+                  all your questions!
                 </p>
               }
             />
@@ -265,7 +282,7 @@ export default function Index() {
         <h1 style={{ zIndex: 1 }}>
           Come cultivate the craft of hacking with us!
         </h1>
-        <figure className="folded" style={{ zIndex: 1 }}>
+        {/* <figure className="folded" style={{ zIndex: 1 }}>
           <iframe
             className="fold-me-please"
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.5022506158507!2d-74.01192858416682!3d40.706958745860106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a1700286efb%3A0x5358bf9fda32dea1!2s40%20Wall%20Street%20-%20The%20Trump%20Building!5e0!3m2!1sen!2sus!4v1674057574341!5m2!1sen!2sus"
@@ -304,7 +321,7 @@ export default function Index() {
             <span className="cell horizontal-4"></span>
             <span className="cell horizontal-3"></span>
           </span>
-        </figure>
+        </figure> */}
       </section>
     </>
   )

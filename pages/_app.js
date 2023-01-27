@@ -14,7 +14,7 @@ export default function App({ Component, pageProps }) {
         />
         <meta
           property="og:description"
-          content="Horizon is an all-girls hackathon taking place in NYC, in a collaboration between Hack Club and the Girl Scouts!"
+          content="Horizon is an all-girls hackathon taking place in NYC, in a collaboration between Hack Club and the Girl Scouts of Greater NY!"
         />
         <meta property="og:type" content="website" />
         <meta property="og:author" content="Hack Club" />
@@ -26,7 +26,7 @@ export default function App({ Component, pageProps }) {
         />
         <meta
           itemProp="description"
-          content="Horizon is an all-girls hackathon taking place in NYC, in a collaboration between Hack Club and the Girl Scouts."
+          content="Horizon is an all-girls hackathon taking place in NYC, in a collaboration between Hack Club and the Girl Scouts of Greater NY."
         />
         <meta
           itemProp="image"
@@ -34,7 +34,7 @@ export default function App({ Component, pageProps }) {
         />
         <meta
           name="description"
-          content="Horizon is an all-girls hackathon taking place in NYC, in a collaboration between Hack Club and the Girl Scouts."
+          content="Horizon is an all-girls hackathon taking place in NYC, in a collaboration between Hack Club and the Girl Scouts of Greater NY."
         />
         <meta name="author" content="Hack Club" />
         <meta name="twitter:site" content="@hackclub" />
@@ -44,7 +44,7 @@ export default function App({ Component, pageProps }) {
         />
         <meta
           name="twitter:description"
-          content="Horizon is an all-girls hackathon taking place in NYC, in a collaboration between Hack Club and the Girl Scouts."
+          content="Horizon is an all-girls hackathon taking place in NYC, in a collaboration between Hack Club and the Girl Scouts of Greater NY."
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
