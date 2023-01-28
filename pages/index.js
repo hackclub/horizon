@@ -8,9 +8,11 @@ export default function Index() {
   return (
     <>
       <header>
-        <h6>Hack Club + Girl Scouts present...</h6>
+        <h6>
+          Hack Club + Girl Scouts of Greater NY &#40;GsGNY&#41; present...
+        </h6>
         <h1>Horizon</h1>
-        <h3>Mar 25 &middot; 10AM - 5PM &middot; Girl Scouts HQ, NYC</h3>
+        <h3>Mar 25 &middot; 9&#58;30AM - 5&#58;30PM &middot; GsGNY HQ, NYC</h3>
         <Image alt="Skyline" fill={true} src={skyline} />
       </header>
       <section
@@ -104,7 +106,10 @@ export default function Index() {
             </p>
           </div>
           <div style={{ transform: `rotate(-3deg)` }}>
-            <img alt="Image" src="https://cloud-b29ke7r2j-hack-club-bot.vercel.app/0hack_club_assemble_ltnj_00611.jpg" />
+            <img
+              alt="Image"
+              src="https://cloud-b29ke7r2j-hack-club-bot.vercel.app/0hack_club_assemble_ltnj_00611.jpg"
+            />
             <p>
               Workshop in action at{' '}
               <a
@@ -117,7 +122,10 @@ export default function Index() {
             </p>
           </div>
           <div style={{ transform: `rotate(2.5deg)` }}>
-            <img alt="Image" src="https://cloud-eb401ritr-hack-club-bot.vercel.app/0bmc_8978.jpg" />
+            <img
+              alt="Image"
+              src="https://cloud-eb401ritr-hack-club-bot.vercel.app/0bmc_8978.jpg"
+            />
             <p>
              Hanging out at{' '}  
                <a
@@ -141,8 +149,9 @@ export default function Index() {
               summary="Am I eligible to participate in Horizon?"
               answer={
                 <p>
-                  This event is open to Cadettes, Seniors, and Ambassadors. 
-                  Girl Scouts can sign up on the GSGNY registration page. (Link coming soon!)
+                  This event is open to Cadettes, Seniors, and Ambassadors. Girl
+                  Scouts can sign up on the GSGNY registration page. &#40;Link
+                  coming soon!&#41;
                 </p>
               }
             />
@@ -238,7 +247,29 @@ export default function Index() {
               summary="I have more questions, how can I reach out?"
               answer={
                 <p>
-                  Girl Scouts can reach out to <a href="mailto:stem@girlscoutsnyc.org">stem@girlscoutsnyc.org</a> with any questions or concerns.
+                  Contact us! Reach out on #horizon on the{' '}
+                  <a
+                    href="https://hackclub.com/slack/"
+                    target="_blank"
+                    rel="noreferrer">
+                    Hack Club Slack
+                  </a>{' '}
+                  or email us at{' '}
+                  <a
+                    href="mailto:horizon@hackclub.com"
+                    target="_blank"
+                    rel="noreferrer">
+                    horizon@hackclub.com
+                  </a>
+                  . Girl Scouts can reach out to{' '}
+                  <a
+                    href="mailto:stem@girlscoutsnyc.org"
+                    target="_blank"
+                    rel="noreferrer">
+                    stem@girlscoutsnyc.org
+                  </a>{' '}
+                  for any questions or concerns. We're always ready to answer
+                  all your questions!
                 </p>
               }
             />
