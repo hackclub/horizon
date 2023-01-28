@@ -159,8 +159,7 @@ export default function Index() {
               summary="Does participating cost anything?"
               answer={
                 <p>
-                  It is &#36;30 per Girl Scout. This cost covers food, snacks,
-                  and program goodies.
+                  There is a $30 fee per Girl Scout put in place by Girl Scouts. This cost covers food, snacks, and program goodies.
                 </p>
               }
             />
