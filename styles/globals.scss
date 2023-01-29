@@ -314,6 +314,31 @@ section {
   }
 }
 
+#footer {
+  display: flex;
+  padding: 0 2.3rem 2rem 2.3rem;
+  margin-inline: 2rem;
+  justify-content: space-between;
+  font-size: 1.1rem;
+  text-align: center;
+
+  @media screen and (max-width: $md-breakpoint) {
+    margin-inline: 0;
+  }
+
+  @media screen and (max-width: $sm-breakpoint) {
+    padding-bottom: 2rem;
+  }
+  #icons {
+    display: flex;
+    gap: 2rem;
+  }
+}
+
+.icon-color {
+  fill: $gold
+}
+
 #map-wrapper {
   border: 5px solid $gold;
   transform: rotate(-3deg);
