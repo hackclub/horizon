@@ -10,7 +10,7 @@ export default function App({ Component, pageProps }) {
         <meta property="og:locale" content="en_US" />
         <meta
           property="og:title"
-          content="Horizon - high school hackathon in NYC in collaboration with the Girl Scouts of Greater NY"
+          content="Horizon - high school all-girls hackathon in NYC"
         />
         <meta
           property="og:description"
@@ -22,11 +22,11 @@ export default function App({ Component, pageProps }) {
         <meta property="og:site_name" content="Hack Club" />
         <meta
           itemProp="name"
-          content="Horizon - high school hackathon in NYC in collaboration with the Girl Scouts of Greater NY"
+          content="Horizon - high school all-girls hackathon in NYC"
         />
         <meta
           itemProp="description"
-          content="Horizon is a hackathon taking place in NYC, in a collaboration between Hack Club and the Girl Scouts of Greater NY."
+          content="Horizon is an all-girls hackathon taking place in NYC, in a collaboration between Hack Club and the Girl Scouts of Greater NY."
         />
         <meta
           itemProp="image"
@@ -34,17 +34,17 @@ export default function App({ Component, pageProps }) {
         />
         <meta
           name="description"
-          content="Horizon is a hackathon taking place in NYC, in a collaboration between Hack Club and the Girl Scouts of Greater NY."
+          content="Horizon is an all-girls hackathon taking place in NYC, in a collaboration between Hack Club and the Girl Scouts of Greater NY."
         />
         <meta name="author" content="Hack Club" />
         <meta name="twitter:site" content="@hackclub" />
         <meta
           name="twitter:title"
-          content="Horizon - high school hackathon in NYC in collaboration with the Girl Scouts of Greater NY"
+          content="Horizon - high school all-girls hackathon in NYC"
         />
         <meta
           name="twitter:description"
-          content="Horizon - high school hackathon in NYC in collaboration with the Girl Scouts of Greater NY"
+          content="Horizon is an all-girls hackathon taking place in NYC, in a collaboration between Hack Club and the Girl Scouts of Greater NY."
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -53,7 +53,7 @@ export default function App({ Component, pageProps }) {
         />
         <meta
           name="apple-mobile-web-app-title"
-          content="Horizon - high school hackathon in NYC in collaboration with the Girl Scouts of Greater NY"
+          content="Horizon - high school all-girls hackathon in NYC"
         />
         <meta name="theme-color" content="#1c2e32" />
         <meta name="msapplication-TileColor" content="#1c2e32" />
