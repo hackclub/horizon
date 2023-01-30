@@ -159,7 +159,7 @@ export default function Index() {
               summary="Does participating cost anything?"
               answer={
                 <p>
-                  There is a $30 fee per Girl Scout put in place by Girl Scouts. This cost covers food, snacks, and program goodies.
+                  This event is free to Hack Clubbers. If you are a member of the Girl Scouts, please reach out to clambrento@girlscoutsnyc.org.
                 </p>
               }
             />
