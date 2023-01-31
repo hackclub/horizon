@@ -9,10 +9,10 @@ export default function Index() {
     <>
       <header>
         <h6>
-          Hack Club + Girl Scouts of Greater NY &#40;GsGNY&#41; present...
+          Hack Club + Girl Scouts of Greater NY &#40;GSGNY&#41; present...
         </h6>
         <h1>Horizon</h1>
-        <h3>Mar 25 &middot; 9&#58;30AM - 5&#58;30PM &middot; GsGNY HQ, NYC</h3>
+        <h3>Mar 25 &middot; 9&#58;30AM - 5&#58;30PM &middot; GSGNY HQ, NYC</h3>
         <Image alt="Skyline" fill={true} src={skyline} />
       </header>
       <section
@@ -40,7 +40,7 @@ export default function Index() {
           </p>
           <p>
             Horizon is fully open source, funded by, and run by the Hack Club
-            community, as well as the Girl Scouts of NY. Hack Clubbers are
+            community, as well as the Girl Scouts of Greater New York. Hack Clubbers are
             organizing Horizon in public on the Hack Club Slack and with fully
             transparent finances using Hack Club Bank. Everything from this
             website to Horizon's dinner menu was created by teenagers just like
