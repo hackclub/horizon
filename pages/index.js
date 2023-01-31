@@ -9,10 +9,12 @@ export default function Index() {
     <>
       <header>
         <h6>
-          Hack Club + Girl Scouts of Greater NY &#40; present...
+          Hack Club + Girl Scouts of Greater NY present...
         </h6>
         <h1>Horizon</h1>
-        <h3>Mar 25 &middot; 9&#58;30AM - 5&#58;30PM &middot; GIRL SCOUTS of</h3><h3> GREATER NY HQ</h3>
+        <h3>Mar 25 &middot; 9&#58;30AM - 5&#58;30PM &middot;</h3>
+    <br>
+    <h4> Girl Scouts of</h4><h4> Greater NY HQ </h4>
         <Image alt="Skyline" fill={true} src={skyline} />
       </header>
       <section
