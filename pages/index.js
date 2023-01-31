@@ -41,7 +41,7 @@ export default function Index() {
             volunteers. We make things. We help one another. We have fun.
           </p>
           <p>
-            Horizon is fully open source, funded by, and run by the Hack Club
+            Horizon is fully open source, funded and run by the Hack Club
             community, as well as the Girl Scouts of Greater New York. Hack Clubbers are
             organizing Horizon in public on the Hack Club Slack and with fully
             transparent finances using Hack Club Bank. Everything from this
