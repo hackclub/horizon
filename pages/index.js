@@ -158,12 +158,10 @@ export default function Index() {
               }
             />
             <Question
-              summary="Does participating cost anything?"
+              summary="Questions about cost/aid?"
               answer={
                 <p>
-                  This event is free to Hack Clubbers. If you are a member of
-                  the Girl Scouts, please reach out to
-                  clambrento@girlscoutsnyc.org.
+                  This event is free to Hack Clubbers. Reach out to stem@girlscoutsnyc.org."
                 </p>
               }
             />
