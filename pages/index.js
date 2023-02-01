@@ -190,7 +190,7 @@ export default function Index() {
               summary="What do I need to bring to Horizon?"
               answer={
                 <p>
-                  Bring a laptop if you have one, and also bring a waterbottle!
+                  Bring a laptop if you have one, and also bring a waterbottle! Lunch and snacks will be provided by Girl Scouts.
                 </p>
               }
             />
