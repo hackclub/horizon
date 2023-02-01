@@ -1,6 +1,8 @@
-The Vision: On March 25th 2023, Girl Scouts will gather in NYC for a day of coding and tinkering with creative projects to share with the world.
+# Horizon
 
-Horizon is a collaboration between Hack Club and the Girl Scouts of Greater NY. This repository shows all of the behind the scenes in making Horizon come alive.
+On March 25th 2023, 40 Girl Scouts and Hack Clubbers will gather in NYC for a day of coding and tinkering with creative projects to share with the world.
+
+Horizon is a collaboration between [Hack Club](https://hackclub.com) and the [Girl Scouts of Greater NY](https://www.girlscoutsnyc.org/). This repository shows all of the behind the scenes in making Horizon come alive, right now that's the code for the website and our projects board.
 
 ## 🗽 In Years Past
 
