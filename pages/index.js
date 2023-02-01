@@ -8,12 +8,12 @@ export default function Index() {
   return (
     <>
       <header>
-        <h6>
+        <h5>
           Hack Club + Girl Scouts of Greater NY present...
-        </h6>
+        </h5>
         <h1>Horizon</h1>
-        <h3>Mar 25 &middot; 9&#58;30AM - 5&#58;30PM &middot;</h3>
-    <h4> Girl Scouts of</h4><h4> Greater NY HQ </h4>
+        <h6>March 25 &middot; 9&#58;30am - 5&#58;30pm &middot;</h6>
+    <h6> Manhattan, NYC</h6> 
         <Image alt="Skyline" fill={true} src={skyline} />
       </header>
       <section
@@ -40,7 +40,7 @@ export default function Index() {
             volunteers. We make things. We help one another. We have fun.
           </p>
           <p>
-            Horizon is fully open source, funded and run by the Hack Club
+            Horizon is fully open source, and funded and run by the Hack Club
             community, as well as the Girl Scouts of Greater New York. Hack Clubbers are
             organizing Horizon in public on the Hack Club Slack and with fully
             transparent finances using Hack Club Bank. Everything from this
@@ -162,12 +162,12 @@ export default function Index() {
               summary="Questions about cost/aid?"
               answer={
                 <p>
-                  This event is free to Hack Clubbers. Reach out to stem@girlscoutsnyc.org."
+                  This event is free to Hack Clubbers. Girl Scouts should reach out to stem@girlscoutsnyc.org to learn more. 
                 </p>
               }
             />
             <Question
-              summary="I'm not that good at coding, can I join?"
+              summary="Can I join if I've never coded before?"
               answer={
                 <p>
                   This hackathon is for hackers of all skill levels! It's
@@ -181,7 +181,7 @@ export default function Index() {
                     rel="noreferrer">
                     Hack Club Workshops
                   </a>
-                  .
+                  . 
                 </p>
               }
             />
