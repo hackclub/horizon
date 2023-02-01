@@ -86,7 +86,8 @@ header {
   }
 
   h6 {
-    font-size: 2rem;
+    -webkit-text-stroke-width: 3px;
+    font-size: 3rem;
   }
 
   @media screen and (min-width: $md-breakpoint) and (max-width: $lg-breakpoint) {

@@ -9,9 +9,11 @@ export default function Index() {
     <>
       <header>
         <h5>Hack Club + Girl Scouts of Greater NY present...</h5>
-        <h1>Horizon</h1>
+        <h1>
+          <Sparkles style={{ display: 'inline-flex' }}>Horizon</Sparkles>
+        </h1>
         <h6>March 25 &middot; 9&#58;30am - 5&#58;30pm &middot;</h6>
-        <h6> Manhattan, NYC</h6>
+        <h6>Manhattan, NYC</h6>
         <Image alt="Skyline" fill={true} src={skyline} />
       </header>
       <section
