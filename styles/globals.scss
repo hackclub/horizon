@@ -34,6 +34,10 @@ a {
   text-decoration-style: wavy;
 }
 
+a: hover {
+  color: #469874;
+  text-decoration-style: wavy;
+}
 body,
 html {
   background-color: $green;
