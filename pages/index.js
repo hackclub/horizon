@@ -8,12 +8,10 @@ export default function Index() {
   return (
     <>
       <header>
-        <h5>
-          Hack Club + Girl Scouts of Greater NY present...
-        </h5>
+        <h5>Hack Club + Girl Scouts of Greater NY present...</h5>
         <h1>Horizon</h1>
         <h6>March 25 &middot; 9&#58;30am - 5&#58;30pm &middot;</h6>
-    <h6> Manhattan, NYC</h6> 
+        <h6> Manhattan, NYC</h6>
         <Image alt="Skyline" fill={true} src={skyline} />
       </header>
       <section
@@ -41,11 +39,11 @@ export default function Index() {
           </p>
           <p>
             Horizon is fully open source, and funded and run by the Hack Club
-            community, as well as the Girl Scouts of Greater New York. Hack Clubbers are
-            organizing Horizon in public on the Hack Club Slack and with fully
-            transparent finances using Hack Club Bank. Everything from this
-            website to Horizon's dinner menu was created by teenagers just like
-            yourself, and you're welcome to help out in #horizon on{' '}
+            community, as well as the Girl Scouts of Greater New York. Hack
+            Clubbers are organizing Horizon in public on the Hack Club Slack and
+            with fully transparent finances using Hack Club Bank. Everything
+            from this website to Horizon's dinner menu was created by teenagers
+            just like yourself, and you're welcome to help out in #horizon on{' '}
             <a
               href="https://hackclub.com/slack/"
               target="_blank"
@@ -162,7 +160,8 @@ export default function Index() {
               summary="Questions about cost/aid?"
               answer={
                 <p>
-                  This event is free to Hack Clubbers. Girl Scouts should reach out to stem@girlscoutsnyc.org to learn more. 
+                  This event is free to Hack Clubbers. Girl Scouts should reach
+                  out to stem@girlscoutsnyc.org to learn more.
                 </p>
               }
             />
@@ -181,7 +180,7 @@ export default function Index() {
                     rel="noreferrer">
                     Hack Club Workshops
                   </a>
-                  . 
+                  .
                 </p>
               }
             />
