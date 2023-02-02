@@ -4,6 +4,22 @@ On March 25th 2023, 40 Girl Scouts and Hack Clubbers will gather in NYC for a da
 
 Horizon is a collaboration between [Hack Club](https://hackclub.com) and the [Girl Scouts of Greater NY](https://www.girlscoutsnyc.org/). This repository shows all of the behind the scenes in making Horizon come alive, right now that's the code for the website and our projects board.
 
+## Running Locally
+
+After cloning the repo or pulling changes, install dependencies:
+
+```sh
+npm install
+```
+
+Then, start the dev server:
+
+```sh
+npm run dev
+```
+
+And the site should be running at http://localhost:3000.
+
 ## 🗽 In Years Past
 
 | Year | Project                                                            | Description                                                                                                                                                                                                                                                                           |
