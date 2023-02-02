@@ -190,7 +190,8 @@ export default function Index() {
               summary="What do I need to bring to Horizon?"
               answer={
                 <p>
-                  Bring a laptop if you have one, and also bring a waterbottle! Lunch and snacks will be provided by Girl Scouts.
+                  Bring a laptop if you have one, and also bring a water bottle!
+                  Lunch and snacks will be provided by Girl Scouts.
                 </p>
               }
             />
@@ -284,7 +285,7 @@ export default function Index() {
         <div id="icons">
           <a href="https://www.instagram.com/starthackclub/">
             <svg
-              class="icon-color"
+              className="icon-color"
               height="30px"
               role="img"
               viewBox="0 0 24 24"
@@ -295,7 +296,7 @@ export default function Index() {
           </a>
           <a href="https://github.com/hackclub">
             <svg
-              class="icon-color"
+              className="icon-color"
               height="30px"
               role="img"
               viewBox="0 0 24 24"
@@ -306,7 +307,7 @@ export default function Index() {
           </a>
           <a href="https://hackclub.com/slack">
             <svg
-              class="icon-color"
+              className="icon-color"
               height="30px"
               role="img"
               viewBox="0 0 50 50"
