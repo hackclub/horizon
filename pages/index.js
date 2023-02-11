@@ -163,7 +163,14 @@ export default function Index() {
               answer={
                 <p>
                   This event is free to Hack Clubbers. Girl Scouts should reach
-                  out to stem@girlscoutsnyc.org to learn more.
+                  out to{' '}
+                  <a
+                    href="mailto:stem@girlscoutsnyc.org"
+                    target="_blank"
+                    rel="noreferrer">
+                    stem@girlscoutsnyc.org
+                  </a>{' '}
+                  to learn more.
                 </p>
               }
             />
@@ -218,8 +225,13 @@ export default function Index() {
               summary="What can I make at Horizon?"
               answer={
                 <p>
-                  Anything! Apps, art, sites, and hardware projects are all
-                  perfect for a hackathon. Check out what{' '}
+                  Girl Scouts can create projects for their Highest Awards! You
+                  can create a website, an app, or anything else that will help
+                  you take action in your community-whether that's promoting a
+                  cause, educating about an issue, or solving a problem. As a
+                  bonus, everyone will take home a special patch from this day!
+                  <br />
+                  Check out what{' '}
                   <a
                     href="https://hackclub.com"
                     target="_blank"
