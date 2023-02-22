@@ -1,6 +1,6 @@
 $green: #005640;
-$gold: #F7BE00;
-$dark-gold: #F7BE00;
+$gold: #f7be00;
+$dark-gold: #f7be00;
 $xs-breakpoint: 375.98px;
 $sm-breakpoint: 575.98px;
 $md-breakpoint: 991.98px;
@@ -9,8 +9,8 @@ $lg-breakpoint: 1119.98px;
 :root {
   // Useful in CSS-in-JS styling
   --green: #005640;
-  --gold: #F7BE00;
-  --dark-gold: #F7BE00;
+  --gold: #f7be00;
+  --dark-gold: #f7be00;
 }
 
 @font-face {
@@ -91,8 +91,10 @@ header {
   }
 
   h6 {
-    -webkit-text-stroke-width: 3px;
-    font-size: 3rem;
+    @media screen and (min-width: $md-breakpoint) {
+      -webkit-text-stroke-width: 3px;
+      font-size: 3rem;
+    }
   }
 
   @media screen and (min-width: $md-breakpoint) and (max-width: $lg-breakpoint) {
@@ -343,8 +345,10 @@ section {
   }
 
   @media screen and (max-width: $sm-breakpoint) {
+    display: block;
     padding-bottom: 2rem;
   }
+
   #icons {
     display: flex;
     gap: 2rem;
