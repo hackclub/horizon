@@ -153,8 +153,14 @@ export default function Index() {
               answer={
                 <p>
                   This event is open to Cadettes, Seniors, and Ambassadors. Girl
-                  Scouts can sign up on the GSGNY registration page. &#40;Link
-                  coming soon!&#41;
+                  Scouts can sign up on the GSGNY registration page.{' '}
+                  <a
+                    href="https://mygs.girlscouts.org/event-detail?id=161-STEM-032523-OG-HWHC"
+                    target="_blank"
+                    rel="noreferrer">
+                    {' '}
+                    &#40;Register here!&#41;
+                  </a>
                 </p>
               }
             />
