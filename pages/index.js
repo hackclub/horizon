@@ -7,9 +7,6 @@ import Question from '../components/Question'
 export default function Index() {
   return (
     <>
-      <head>
-        <script defer data-domain="horizon.hackclub.com" src="https://plausible.io/js/script.js"></script>
-      </head>
       <header>
         <h5>Hack Club + Girl Scouts of Greater NY present...</h5>
         <h1>
