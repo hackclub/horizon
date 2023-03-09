@@ -86,6 +86,7 @@ export default function App({ Component, pageProps }) {
         <title>
           Horizon - high school hackathon for marginalized genders in NYC
         </title>
+        <script defer data-domain="horizon.hackclub.com" src="https://plausible.io/js/script.js"></script>
       </Head>
       <Component {...pageProps} />
     </>
