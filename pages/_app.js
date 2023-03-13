@@ -1,5 +1,6 @@
 import '../styles/globals.scss'
 import Head from 'next/head'
+import Script from 'next/script'
 
 export default function App({ Component, pageProps }) {
   return (
@@ -86,8 +87,8 @@ export default function App({ Component, pageProps }) {
         <title>
           Horizon - high school hackathon for marginalized genders in NYC
         </title>
-        <script defer data-domain="horizon.hackclub.com" src="https://plausible.io/js/script.js"></script>
       </Head>
+      <Script defer data-domain="horizon.hackclub.com" src="https://plausible.io/js/script.js" />
       <Component {...pageProps} />
     </>
   )
