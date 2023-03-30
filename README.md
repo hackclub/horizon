@@ -15,6 +15,7 @@ The goal of this repository is to be a reference for high schoolers looking to o
 
 
 ## 🎯 The Goal
+
 1. ** TECHNICAL: ** The first was to support Hack Clubbers to become more technical, to become better leaders, and to deepen friendships through collaborative coding projects.
 2. ** GROWTH: **The second goal was to grow Hack Club’s community so it is inclusive and accessible to teenagers of all backgrounds. We made active outreach to under-represented, less-advantaged young people, including girls and girls of color, who don’t have computer science programs or professional mentors in their community.
 
