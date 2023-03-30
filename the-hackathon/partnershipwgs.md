@@ -1,9 +1,9 @@
-## Partnerhsip with Girl Scouts
+## 🤝 Partnerhsip with Girl Scouts
 
 A core mission of Hack Club is to support teenagers from every background rise into leadership roles by helping them 
-1. Acquire strong technical skills 
-2. Hold an optimistic, can-do attitude, and 3. Establish a network of friends to work with. 
-3. These are foundational Hack Club goals.
+1. Acquire strong technical skills 💻
+2. Hold an optimistic, can-do attitude, and 3. Establish a network of friends to work with. 😄
+3. These are foundational Hack Club goals. 🥅
 
 Horizon advanced this mission for girls. Service projects for others is a very motivating activity for Hack Club girls, and makes learning different technical skills like JavaScript, design and GitHub collaboration feel relevant, inspiring and real for them. 
 
