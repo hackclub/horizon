@@ -1,4 +1,4 @@
-#Partnerhsip with Girl Scouts
+## Partnerhsip with Girl Scouts
 
 A core mission of Hack Club is to support teenagers from every background rise into leadership roles by helping them 
 1. Acquire strong technical skills 
