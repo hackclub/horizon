@@ -31,7 +31,8 @@ Horizon had a budget of \$18,000. HS hackathon budgets can range anywhere from \
 Across this repository, you'll find the fabulous photographs of Assemble by [@avajshah](https://twitter.com/avajshah), a Hack Clubber from SF. The full album can be found here (all Hack Clubbers can use these photos in their projects!): [https://drive.google.com/drive/folders/10d62PkTOyYbgTddVzkS_bK1THA5O9ZhM?usp=sharing](https://drive.google.com/drive/folders/10d62PkTOyYbgTddVzkS_bK1THA5O9ZhM?usp=sharing). We also have a collaborative album amongst attendees: [https://photos.google.com/share/AF1QipP0GuluH1uzjz9RbWPmJZa1X02ULI7P5vTsvGfasEVw2F0yui_XIgRxUEJEMXO7dA](https://photos.google.com/share/AF1QipP0GuluH1uzjz9RbWPmJZa1X02ULI7P5vTsvGfasEVw2F0yui_XIgRxUEJEMXO7dA). The Girl Scouts also hired a photographer, [@KellyMarsh86](https://twitter.com/KellyMarsh86) please find her album here, [https://www.dropbox.com/scl/fo/i63ooimksa1ju67g29rci/h?dl=0&rlkey=30hoekth5c2cqaggi7qrrd1iq](https://www.dropbox.com/scl/fo/i63ooimksa1ju67g29rci/h?dl=0&rlkey=30hoekth5c2cqaggi7qrrd1iq).
 
 ## Further Readings
-- will link stuff here! 
+- Timeline [Read more in `/timeline` ➚](/timeline)
+- Roses N Thorns sucesses and what not! [Read more in `/rosesNthorns` ➚](/rosesNthorns)
 
 ## 🗽 In Years Past
 
