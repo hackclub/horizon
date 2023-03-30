@@ -1,9 +1,13 @@
-## Partnerhsip with Girl Scouts
+## 🤝 Partnerhsip with Girl Scouts
+
+
+<img width="600" alt="Hack Club Girls mentoring" src="https://user-images.githubusercontent.com/39828164/189932518-93a9b110-7e29-410c-973c-ac7fd6a8eb04.png](https://cloud-c9zl20gqo-hack-club-bot.vercel.app/0img_7726.jpg">
+
 
 A core mission of Hack Club is to support teenagers from every background rise into leadership roles by helping them 
-1. Acquire strong technical skills 
-2. Hold an optimistic, can-do attitude, and 3. Establish a network of friends to work with. 
-3. These are foundational Hack Club goals.
+1. Acquire strong technical skills 💻
+2. Hold an optimistic, can-do attitude, and 3. Establish a network of friends to work with. 😄
+3. These are foundational Hack Club goals. 🥅
 
 Horizon advanced this mission for girls. Service projects for others is a very motivating activity for Hack Club girls, and makes learning different technical skills like JavaScript, design and GitHub collaboration feel relevant, inspiring and real for them. 
 
@@ -12,3 +16,4 @@ Hack Club has not yet been able to truly reach the deeply underserved as the bar
 Mentoring and community helped overcome barriers specific to girls. Girls often report that coding is “not for them” or they are intimidated. Horizon’s design created a new space on the slack which was way more supportive (not competitive like the code channel), where girls led, and felt supported and valued; girls served as role models for each other; and met even greater role models with the women CEOS.
 
 Girls greatly value advice and guidance from female and non binary leaders. We found having a 2:1 ratio of girls to leaders is crucial, as it creates an environment where girls feel comfortable and supported. In order to foster a sense of inclusivity and empowerment, it's important to ensure that there are no individuals present who do not align with the goals and values of the group. By prioritizing the input and experiences of female leaders, we can create a space that truly empowers girls and helps them to reach their full potential. Hosting an event in a home or personal space is key; rather than at a restaurant or corporate office.
+
