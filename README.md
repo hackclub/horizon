@@ -1,4 +1,4 @@
-![Horizon: 24th March to 26th March](https://cloud-61dtwhqp4-hack-club-bot.vercel.app/0horizon_banner.png)
+![Hack Clubber Maggie mentoring a Girl Scouts](https://cloud-qi8xterg2-hack-club-bot.vercel.app/0kmm_6523.jpg)
 
 ## ✨ The Overview
 Horizon was [Hack Club](https://hackclub.com/)'s first all-female/nonbinary hackathon weekend! From 24th - March 26th, 18 Hack Clubbers from the US gathered in New York City to host a 1-day hackathon with Girl Scouts of Greater NY where 37 Girl Scouts wrote  their first line of code! It included 4 workshops in building websites, creating a video game in JavaScript, and much more. After the hackathon, Hack Clubbers hosted a dinner with incredible female leaders. 
@@ -24,7 +24,6 @@ We came into this weekend with 2 goals:
 2. To grow Hack Club’s community so it is inclusive and accessible to teenagers of all backgrounds. We made active outreach to under-represented, less-advantaged young people, including girls and girls of color, who don’t have computer science programs or professional mentors in their community.
 
 ## 💸 The Budget
-
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fbank-shields.hackclub.com%2Forganizations%2Fhorizon%2Fbalance)](https://bank.hackclub.com/horizon)
 
 Horizon had a budget of $19,000 with an approximate breakdown of
