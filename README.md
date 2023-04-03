@@ -1,38 +1,60 @@
 ![Horizon ~ 24th March to 26 March](https://cloud-4b5ejv320-hack-club-bot.vercel.app/0horizon_banner.png)
 
 ## ✨ The Overview
-Horizon was [Hack Club's](https://hackclub.com/) first all-female/nonbinary hackathon weekend! Led by Hack Clubbers, it included 20 girls from Hack Club, plus 37 girls from Girl Scouts. From March 24th - March 26th 18 technical high school girls from Hack Club hosted a free, 1-day hackathon with Girl Scouts of Greater NY. It included 4 workshops in making websites in html and css, creating a video game in JavaScript, and much more. We did 8 hours of coding total and the girls built their first real coding projects.
+Horizon was [Hack Club's](https://hackclub.com/) first all-female/nonbinary hackathon weekend! From 24th - March 26th, 18 Hack Clubbers from the US gathered in New York City to host a 1-day hackathon with Girl Scouts of Greater NY where 37 Girl Scouts wrote  their first line of code! It included 4 workshops in building websites, creating a video game in JavaScript, and much more. After the hackathon, Hack Clubbers hosted a dinner with incredible female leaders. 
 
-The goal of this repository is to be a reference for high schoolers looking to organise their own hackathon / events with Girl Scouts. his repository is our digital footprint of this event, we hope this will serve as inspiration for future events. Looking for a how-to? Read [An Expandable Guide to Hackathon Organizing](https://expandables.hackclub.dev/organizing.html).
+The goal of this repository is to be a reference for high schoolers looking to organise their own beginner-focused hackathon and corresponding dinner. This is our digital footprint of this event, we hope this will serve as inspiration for future events. 
+
+Interested in hosting a hackathon? Read [how Hack Club can support you](https://hackathons.hackclub.com/) and check out [An Expandable Guide to Hackathon Organizing](https://expandables.hackclub.dev/organizing.html)!
 
 ## 🎯 The Weekend
+A rundown of what we did in New York City!
+
 | Day | Activity                                                                 |
 |-----|-------------------------------------------------------------------------|
 |Fri 🏙️ | We toured NYC, visited Girls Who Code’s CodeFair, Math Museum, set up the hackathon, and had a team sync and dinner together.|
-|SaturDAY 💻 |We ran a 1-day, 8-hour hackathon for 37 Girl Scouts ages 11-16, which included 4 workshops and hours of coding. |
-|Saturday night 🍴 |Saturday night we hosted a dinner with 10 female and nonbinary leaders, CEOs and engineers (Sara Chipps, Jessica Rovello, Stacey Cunningham, Rachel Lim, Julia Haart, Pinky Dewani, Christina Entcheva, Trina Spear, Lachlan Campbell, Meredith Maskara)|
+|Sat 💻 | We ran a 1-day, 8-hour hackathon for 37 Girl Scouts ages 11-16, which included 4 workshops and hours of coding. |
+|Saturday night 🍴 | Saturday night we hosted a dinner with 10 female and nonbinary leaders, CEOs and engineers |
 |Sun 🍵  | We debriefed over breakfast, went to a bookshop and enjoyed NYC!  |
 
 
 ## 🎯 The Goal
-
-1. ** TECHNICAL: ** The first was to support Hack Clubbers to become more technical, to become better leaders, and to deepen friendships through collaborative coding projects.
-2. ** GROWTH: **The second goal was to grow Hack Club’s community so it is inclusive and accessible to teenagers of all backgrounds. We made active outreach to under-represented, less-advantaged young people, including girls and girls of color, who don’t have computer science programs or professional mentors in their community.
-
+We came into this weekend with 2 goals:
+1. To support Hack Clubbers to become more technical, to become better leaders, and to deepen friendships through collaborative coding projects.
+2. To grow Hack Club’s community so it is inclusive and accessible to teenagers of all backgrounds. We made active outreach to under-represented, less-advantaged young people, including girls and girls of color, who don’t have computer science programs or professional mentors in their community.
 
 ## 💸 The Budget
 
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fbank-shields.hackclub.com%2Forganizations%2Fhorizon%2Fbalance)](https://bank.hackclub.com/horizon)
 
-Horizon had a budget of \$18,000. HS hackathon budgets can range anywhere from \$500 to \$75,000. Whatever your budget is, you'll find a similar set of expenses will arise between all hackathons. Every expense made for Horizon has been open sourced [here](https://bank.hackclub.com/horizon) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-optional-feature-151427)
+Horizon had a budget of $19,000 with an approximate breakdown of
+| Item | Amount ($) |
+|------|--------|
+|✈️ Travel Stipends| 6,000 |
+|🏨 Hotel | 5,200 |
+|🥘 Dinner | 3,500 |
+|🥘 Weekend expenses | 2,300 |
+|👚 Hackathon: Swag, Decorations, workshops | 2,000 |
+
+HS hackathon budgets can range anywhere from \$500 to \$75,000. Horizon was our first time organizing such event and if repeated, keeping the attendees local would be able to bring the costs down to around $5,000 or even less!
+
+Every expense made for Horizon has been open sourced [here](https://bank.hackclub.com/horizon) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-optional-feature-151427)
 
 ### 📸 Photography
 
-Across this repository, you'll find the fabulous photographs of Assemble by [@avajshah](https://twitter.com/avajshah), a Hack Clubber from SF. The full album can be found here (all Hack Clubbers can use these photos in their projects!): [https://drive.google.com/drive/folders/10d62PkTOyYbgTddVzkS_bK1THA5O9ZhM?usp=sharing](https://drive.google.com/drive/folders/10d62PkTOyYbgTddVzkS_bK1THA5O9ZhM?usp=sharing). We also have a collaborative album amongst attendees: [https://photos.google.com/share/AF1QipP0GuluH1uzjz9RbWPmJZa1X02ULI7P5vTsvGfasEVw2F0yui_XIgRxUEJEMXO7dA](https://photos.google.com/share/AF1QipP0GuluH1uzjz9RbWPmJZa1X02ULI7P5vTsvGfasEVw2F0yui_XIgRxUEJEMXO7dA). The Girl Scouts also hired a photographer, [@KellyMarsh86](https://twitter.com/KellyMarsh86) please find her album here, [https://www.dropbox.com/scl/fo/i63ooimksa1ju67g29rci/h?dl=0&rlkey=30hoekth5c2cqaggi7qrrd1iq](https://www.dropbox.com/scl/fo/i63ooimksa1ju67g29rci/h?dl=0&rlkey=30hoekth5c2cqaggi7qrrd1iq).
+Across this repository, you'll find awesome photographs from the weekend by [@avajshah](https://twitter.com/avajshah), a Hack Clubber from SF. The full album can be found here (all Hack Clubbers can use these photos in their projects!): [hack.af/horizon-photos](https://hack.af/horizon-photos). 
+
+We also have a collaborative album amongst attendees: [hack.af/horizon-collab](https://hack.af/horizon-collab). 
+
+Girl Scouts also hired a photographer for the hackathon of itself, [@KellyMarsh86](https://twitter.com/KellyMarsh86) please find her album here, [hack.af/horizon-hackathon](https://horizon-hackathon).
 
 ## Further Readings
-- Timeline [Read more in `/timeline` ➚](/timeline)
-- Roses N Thorns sucesses and what not! [Read more in `/rosesNthorns` ➚](/rosesNthorns)
+Interested in a deeper dive of Horizon? Check out our:
+| [Hackathon] |
+|-----------|
+| [Dinner] |
+| [On the Horizon: the lead up] |
+| [What we learned] |
 
 ## 🗽 In Years Past
 
