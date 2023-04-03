@@ -1,7 +1,7 @@
-![Horizon ~ 24th March to 26 March](https://cloud-4b5ejv320-hack-club-bot.vercel.app/0horizon_banner.png)
+![Horizon: 24th March to 26th March](https://cloud-61dtwhqp4-hack-club-bot.vercel.app/0horizon_banner.png)
 
 ## ✨ The Overview
-Horizon was [Hack Club's](https://hackclub.com/) first all-female/nonbinary hackathon weekend! From 24th - March 26th, 18 Hack Clubbers from the US gathered in New York City to host a 1-day hackathon with Girl Scouts of Greater NY where 37 Girl Scouts wrote  their first line of code! It included 4 workshops in building websites, creating a video game in JavaScript, and much more. After the hackathon, Hack Clubbers hosted a dinner with incredible female leaders. 
+Horizon was [Hack Club](https://hackclub.com/)'s first all-female/nonbinary hackathon weekend! From 24th - March 26th, 18 Hack Clubbers from the US gathered in New York City to host a 1-day hackathon with Girl Scouts of Greater NY where 37 Girl Scouts wrote  their first line of code! It included 4 workshops in building websites, creating a video game in JavaScript, and much more. After the hackathon, Hack Clubbers hosted a dinner with incredible female leaders. 
 
 The goal of this repository is to be a reference for high schoolers looking to organise their own beginner-focused hackathon and corresponding dinner. This is our digital footprint of this event, we hope this will serve as inspiration for future events. 
 
@@ -12,10 +12,10 @@ A rundown of what we did in New York City!
 
 | Day | Activity                                                                 |
 |-----|-------------------------------------------------------------------------|
-|Fri 🏙️ | We toured NYC, visited Girls Who Code’s CodeFair, Math Museum, set up the hackathon, and had a team sync and dinner together.|
-|Sat 💻 | We ran a 1-day, 8-hour hackathon for 37 Girl Scouts ages 11-16, which included 4 workshops and hours of coding. |
-|Saturday night 🍴 | Saturday night we hosted a dinner with 10 female and nonbinary leaders, CEOs and engineers |
-|Sun 🍵  | We debriefed over breakfast, went to a bookshop and enjoyed NYC!  |
+|🏙️ Fri | We toured NYC, visited Girls Who Code’s CodeFair, Math Museum, set up the hackathon, and had a team sync and dinner together.|
+|💻 Sat | We ran a 1-day, 8-hour hackathon for 37 Girl Scouts ages 11-16, which included 4 workshops and hours of coding. |
+|🍴 Sat night | Saturday night we hosted a dinner with 10 female and nonbinary leaders, CEOs and engineers |
+|🍵 Sun  | We debriefed over breakfast, went to a bookshop and enjoyed NYC!  |
 
 
 ## 🎯 The Goal
@@ -48,13 +48,15 @@ We also have a collaborative album amongst attendees: [hack.af/horizon-collab](h
 
 Girl Scouts also hired a photographer for the hackathon of itself, [@KellyMarsh86](https://twitter.com/KellyMarsh86) please find her album here, [hack.af/horizon-hackathon](https://horizon-hackathon).
 
-## Further Readings
-Interested in a deeper dive of Horizon? Check out our:
-| [Hackathon] |
+## Interested in a deeper dive of Horizon? 
+
+|Further readings|
 |-----------|
-| [Dinner] |
-| [On the Horizon: the lead up] |
-| [What we learned] |
+| [💬 On the horizon: the lead up](https://github.com/hackclub/horizon/blob/main/further-reading/timeline.md) |
+| [💻 The hackathon: 3, 2, 1, hack](https://github.com/hackclub/horizon/blob/main/the-hackathon/README.md) |
+| [✨ The dinner: steak and conversations](https://github.com/hackclub/horizon/blob/main/dinner/README.md) |
+| [🗽 Oh my, New York City!](https://github.com/hackclub/horizon/blob/main/further-reading/sideactivities.md) |
+| [💖 Reflections over lavendar match lattes](https://github.com/hackclub/horizon/blob/main/further-reading/sundaydebrief.md) |
 
 ## 🗽 In Years Past
 
