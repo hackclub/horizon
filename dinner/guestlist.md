@@ -1,5 +1,7 @@
 # 👩‍💼 The Guests
 
+We wanted the guests at this dinner to have a diverse backgrounds and experiences. We had the Hack Clubbers make a list of potential guests, from there we researched emails using the internet and made an [email template](https://docs.google.com/document/d/1AHa0mO1czzZ7grNMLDjefLWM2Eby9UFTAboIpEtfFoA/edit?usp=sharing) which Hack Clubbers adopted and sent to each guest.
+
 Prior to the event we made a [lookbook](https://docs.google.com/document/d/e/2PACX-1vS4xVOjSO1-OwYPB5KophV5-k0oeS1AuYSa1FyRqTu1UlxDjP0yVHUXOwMlPYR0CqgPHa39luCQBevI/pub?urp=gmail_link) of all the guests which was shared with all the guests prior to the dinner, alongside the email:
 
 ```
