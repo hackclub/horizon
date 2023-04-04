@@ -1,4 +1,6 @@
-## ✨ The Overview
+# ✨ Horizon ✨
+<img width="700" alt="Screenshot 2023-04-04 at 9 19 55 AM" src="https://user-images.githubusercontent.com/65808924/229817435-f2b16c71-2292-47d9-a263-397697f972e0.png">
+
 Horizon was [Hack Club](https://hackclub.com/)'s first all-female/nonbinary hackathon weekend! From 24th - March 26th, 18 Hack Clubbers from the US gathered in New York City to host a 1-day hackathon with Girl Scouts of Greater NY where 37 Girl Scouts wrote  their first line of code! It included 4 workshops in building websites, creating a video game in JavaScript, and much more. After the hackathon, Hack Clubbers hosted a dinner with incredible female leaders. 
 
 The goal of this repository is to be a reference for high schoolers looking to organise their own beginner-focused hackathon and corresponding dinner. This is our digital footprint of this event, we hope this will serve as inspiration for future events. 
