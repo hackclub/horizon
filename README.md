@@ -38,7 +38,7 @@ HS hackathon budgets can range anywhere from \$500 to \$75,000. Horizon was our 
 
 Every expense made for Horizon has been open sourced [here](https://bank.hackclub.com/horizon) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-optional-feature-151427)
 
-### 📸 Photography
+## 📸 Photography
 
 Across this repository, you'll find awesome photographs from the weekend by [@avajshah](https://twitter.com/avajshah), a Hack Clubber from SF. The full album can be found here (all Hack Clubbers can use these photos in their projects!): [hack.af/horizon-photos](https://hack.af/horizon-photos). 
 
