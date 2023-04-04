@@ -1,7 +1,6 @@
 ## 🤝 Partnerhsip with Girl Scouts
 
-
-<img width="600" alt="Hack Club Girls mentoring" src="https://user-images.githubusercontent.com/39828164/189932518-93a9b110-7e29-410c-973c-ac7fd6a8eb04.png](https://cloud-c9zl20gqo-hack-club-bot.vercel.app/0img_7726.jpg">
+<img width="700" alt="Hack Club Girls mentoring" src="https://user-images.githubusercontent.com/65808924/229812671-293badb9-a03c-41a6-868f-77bcd9252015.png">
 
 
 A core mission of Hack Club is to support teenagers from every background rise into leadership roles by helping them 
