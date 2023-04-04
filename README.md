@@ -12,10 +12,9 @@ A rundown of what we did in New York City!
 
 | Day | Activity                                                                 |
 |-----|-------------------------------------------------------------------------|
-|🏙️ Fri | We toured NYC, visited Girls Who Code’s CodeFair, Math Museum, set up the hackathon, and had a team sync and dinner together.|
-|💻 Sat | We ran a 1-day, 8-hour hackathon for 37 Girl Scouts ages 11-16, which included 4 workshops and hours of coding. |
-|🍴 Sat night | Saturday night we hosted a dinner with 10 female and nonbinary leaders, CEOs and engineers |
-|🍵 Sun  | We debriefed over breakfast, went to a bookshop and enjoyed NYC!  |
+|🏙️ Fri | Enjoyed Girls Who Code’s CodeFair, MoMath, set up the hackathon |
+|💻 Sat | Day of the hackathon + dinner with leaders |
+|🍵 Sun  | Debrief over breakfast, exploring NYC |
 
 
 ## 🎯 The Goal
