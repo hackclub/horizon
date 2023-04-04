@@ -14,6 +14,6 @@ We had 37 girl scouts — most of whom had never coded — and 18 more advanced 
 We had the support of 5 Girl Scouts of Greater New York staff, 5 volunteers, and 3 adults from the Hack Club team to help maintain a safe environment. We also had a few experienced engineers join throughout the day as mentors.
 
 ### 💻 Projects 
-Since this was a beginner's hackathon, we focused on helping everyone build a project rather than compete for a prize which culminated in a science-fair like showcase with optional presentations at the end of the day. We had people build a fashion blog, website on their favourite things, game about their younger siblings, and more! It was truly incredible to write code that they could feel proud of and continue working on after the event!
-
 <img width="700" alt="Screenshot 2023-04-04 at 9 41 57 AM" src="https://user-images.githubusercontent.com/65808924/229811753-eb41a555-ca90-436d-a8ea-08d0c4588c34.png">
+
+Since this was a beginner's hackathon, we focused on helping everyone build a project rather than compete for a prize which culminated in a science-fair like showcase with optional presentations at the end of the day. We had people build a fashion blog, website on their favourite things, game about their younger siblings, and more! It was truly incredible to write code that they could feel proud of and continue working on after the event!
