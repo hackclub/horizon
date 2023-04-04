@@ -1,7 +1,7 @@
 # Horizon: the hackathon
 **⌛️ 8 hours | 👩🏽‍💻 55 participants | 💻 15 projects | 🐝 5 workshops**
 
-<img width="700" alt="Screenshot 2023-04-04 at 9 42 56 AM" src="https://user-images.githubusercontent.com/65808924/229812042-93f146f9-8726-41b3-869d-64a77c99e17d.png">
+<img width="700" alt="Screenshot 2023-04-04 at 12 28 14 PM" src="https://user-images.githubusercontent.com/65808924/229856986-394760db-32ad-4af1-9aff-9aa9a3a43766.png">
 
 On March 25th, we celebrated a magical day of coding organized in collaboration with the Girls Scouts of Greater New York. It was held in their offices, and we all arrived a day early to help [set up the space](https://github.com/hackclub/horizon/blob/main/the-hackathon/venue-setup.md). Our goal was to turn 
 
