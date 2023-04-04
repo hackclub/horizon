@@ -1,5 +1,3 @@
-![Hack Clubber Maggie mentoring a Girl Scouts](https://cloud-qi8xterg2-hack-club-bot.vercel.app/0kmm_6523.jpg)
-
 ## ✨ The Overview
 Horizon was [Hack Club](https://hackclub.com/)'s first all-female/nonbinary hackathon weekend! From 24th - March 26th, 18 Hack Clubbers from the US gathered in New York City to host a 1-day hackathon with Girl Scouts of Greater NY where 37 Girl Scouts wrote  their first line of code! It included 4 workshops in building websites, creating a video game in JavaScript, and much more. After the hackathon, Hack Clubbers hosted a dinner with incredible female leaders. 
 
