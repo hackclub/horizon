@@ -19,15 +19,15 @@ When designing pins for Horizon, I used both Procreate and Figma (Procreate for 
 
 ## 🔑 PCB Keychains
 
-I (Maggie) designed some PCB keychains of Orpheus -- they lit up through a simple circuit, powered by a cr2032 coin cell battery. For the art, I used Procreate and Figma -- Procreate for drawing everything and Figma for masking out the different layers needed for PCB art. I also heavily utilized [SVGcode](https://svgco.de) to convert the raster drawings from Procreate into SVGs.
+I (Maggie) designed some PCB (printed circuit board) keychains of Orpheus -- they lit up through a simple circuit, powered by a cr2032 coin cell battery. For the art, I used Procreate and Figma -- Procreate for drawing everything and Figma for masking out the different layers needed for PCB art. I also heavily utilized [SVGcode](https://svgco.de) to convert the raster drawings from Procreate into SVGs.
 
-For the actual PCB's schematic and design, I used [EasyEDA](https://easyeda.com), an online PCB design tool. EasyEDA is associated with JLCPCB (the PCB manufacturer I used), so it had footprints for the parts in the JLCPCB library.
+For the actual PCB's schematic and design, I used [EasyEDA](https://easyeda.com), an online PCB design tool. EasyEDA is associated with JLCPCB (the PCB manufacturer I used), so it had footprints for the parts in the JLCPCB library (super convenient!).
 
 ### Schematic
 
 <img width="563" alt="schematic for the keychain, showing a circuit consisting of a battery, switch, resistor, and LED" src="https://user-images.githubusercontent.com/63619830/229932902-d33a93d5-032c-4359-9c41-a36668515626.png">
 
-The actual hardware part of the keychain is just a simple circuit -- a battery, switch, resistor, and LED. Since I chose to have JLCPCB do PCB assembly in addition to manufacturing, I picked parts from their [parts library](https://jlcpcb.com/parts).
+The actual hardware part of the keychain is just a simple circuit -- a battery, switch, resistor, and LED. Since I chose to have JLCPCB assemble the PCBs in addition to manufacturing, I picked parts from their [parts library](https://jlcpcb.com/parts).
 
 ### PCB Design
 
@@ -41,7 +41,7 @@ After using SVGcode to convert my drawings into SVGs, I used an [SVG Import Exte
 
 I placed the components onto the back of the PCB -- in order to make assembly cheaper (by placing parts only on one side), I used a side mounted LED and used no soldermask and no copper to create a translucent window, so the LED light could shine through to the front.
 
-And here's the final PCB!
+And here's the final PCB! I think it turned out really cute, although some of the details (the Hack Club flag on the back) were not super clear. If I were to do it again, I'd make sure all the designs are big enough to be clearly printed.
 
 <div>
 <img width="350" alt="the front of the finished keychain" src="https://user-images.githubusercontent.com/63619830/229934867-dd5cc940-c605-425b-8b49-a691947624be.jpg">
