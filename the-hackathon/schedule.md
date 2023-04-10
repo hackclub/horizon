@@ -1,5 +1,5 @@
 # The Schedule
-We ended up finalizing the schedule the day of the event, but we had the general idea at least a week before. [@audreyolafz](https://github.com/audreyolafz), Lorelai and I worked on the initial draft of the schedule together. [@belle](https://github.com/bellesea) and I worked on the final draft together in the "situation room!" 🤪
+We ended up finalizing the schedule the day of the event, but we had the general idea at least a week before. [@audreyolafz](https://github.com/audreyolafz), [@tiredbread](https://github.com/tiredbread), and I worked on the initial draft of the schedule together. [@belle](https://github.com/bellesea) and I worked on the final draft together in the "situation room!" 🤪
 
 ## Making the First Draft
 Before we could even draft the schedule, we had to decide when the workshops were taking place. Initially, our workshop plan looked like this: 
