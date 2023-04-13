@@ -1,4 +1,4 @@
-# Sunday! 
+# 🎵 A Sunday kind of love: reflection of the weekend
 On Sunday, we woke up and walked to Maman, one of the most popular cafes in the NYC area — I'd been recommended it by multiple friends so it was really nice to fall into the comfort of doing touristy™ things. Though, I'm not sure if the cafe liked that: we got a few glares and eye-rolls, but that's okay, because I'd probably do the same too if I saw a group of a dozen or so teenage girls walk in (and wearing matching hoodies no less!). 
 
 We mainly discussed some of our takeaways and favorite things from Horizon (both the event & the dinner). We talked a lot about the joy of being able to share our love of coding and hardware with younger kids and how fun it was to see the projects that everyone had been able to make. Some of the web dev workshop leads talked about being flexible on their feet and changing the class around when they saw that some of the students were lost as well as some of the hardware workshop leaders talking about the Girl Scouts that had been really interested in Sprig. I really enjoyed teaching my Generative Art workshop and see how excited the studetns were when their code gave them some beautiful animations and whatnot! 
@@ -16,4 +16,4 @@ The rest of the day was just a bit of running around and doing fun things in New
   <img alt="" width="500" src="https://user-images.githubusercontent.com/62197228/230696808-a89caf77-067a-4c7c-9754-f6f4e186357e.jpg">
 </p>
 
-Generally speaking, it seemed that all of us really thought Horizon was a success and hope to be able to do similar things in the future, but also think there are some things that could be changed as well in terms of communication with the community, clearer forms of outreach for dinners, etc.. Thanks! — Claire (@clairebookworm)
+Generally speaking, it seemed that all of us really thought Horizon was a success and hope to be able to do similar things in the future, but also think there are some things that could be changed as well in terms of communication with the community, clearer forms of outreach for dinners, etc.. Thanks! — Claire [@clairebookworm](https://github.com/clairebookworm)
