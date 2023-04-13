@@ -1,4 +1,4 @@
-## 🤝 Partnerhsip with Girl Scouts
+## 🤝 Partnership with Girl Scouts
 
 <img width="700" alt="Hack Club Girls mentoring" src="https://user-images.githubusercontent.com/65808924/229812671-293badb9-a03c-41a6-868f-77bcd9252015.png">
 
