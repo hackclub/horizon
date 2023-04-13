@@ -1,7 +1,7 @@
 # ✨ Horizon ✨
 <img width="700" alt="Screenshot 2023-04-04 at 9 19 55 AM" src="https://user-images.githubusercontent.com/65808924/229817435-f2b16c71-2292-47d9-a263-397697f972e0.png">
 
-Horizon was [Hack Club](https://hackclub.com/)'s first all-female/nonbinary hackathon weekend! From 24th - March 26th, 18 Hack Clubbers from the US gathered in New York City to host a 1-day hackathon with Girl Scouts of Greater NY where 37 Girl Scouts wrote  their first line of code! It included 4 workshops in building websites, creating a video game in JavaScript, and much more. After the hackathon, Hack Clubbers hosted a dinner with incredible female leaders. 
+Horizon was [Hack Club](https://hackclub.com/)'s first all-female/nonbinary hackathon weekend! From 24th - March 26th, 18 Hack Clubbers from across the US gathered in New York City to host a 1-day hackathon with Girl Scouts of Greater NY where 37 Girl Scouts wrote their first line of code! It included 4 workshops in building websites, creating a game in JavaScript, and much more. After the hackathon, Hack Clubbers hosted a dinner with incredible female leaders. 
 
 The goal of this repository is to be a reference for high schoolers looking to organise their own beginner-focused hackathon and corresponding dinner. This is our digital footprint of this event, we hope this will serve as inspiration for future events. 
 
@@ -34,7 +34,7 @@ Horizon had a budget of $19,000 with an approximate breakdown of
 |🥘 Weekend expenses | 2,300 |
 |👚 Hackathon: Swag, Decorations, workshops | 2,000 |
 
-HS hackathon budgets can range anywhere from \$500 to \$75,000. Horizon was our first time organizing such event and if repeated, keeping the attendees local would be able to bring the costs down to around $5,000 or even less!
+High school hackathon budgets can range anywhere from \$500 to \$75,000. Horizon was our first time organizing such event and if repeated, keeping the attendees local would be able to bring the costs down to around $5,000 or even less!
 
 Every expense made for Horizon has been open sourced [here](https://bank.hackclub.com/horizon) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-optional-feature-151427)
 
@@ -42,9 +42,9 @@ Every expense made for Horizon has been open sourced [here](https://bank.hackclu
 
 Across this repository, you'll find awesome photographs from the weekend by [@avajshah](https://twitter.com/avajshah), a Hack Clubber from SF. The full album can be found here (all Hack Clubbers can use these photos in their projects!): [hack.af/horizon-photos](https://hack.af/horizon-photos). 
 
-We also have a collaborative album amongst attendees: [hack.af/horizon-collab](https://hack.af/horizon-collab). 
+We also have a collaborative album amongst Hack Clubbers: [hack.af/horizon-collab](https://hack.af/horizon-collab). 
 
-Girl Scouts also hired a photographer for the hackathon of itself, [@KellyMarsh86](https://twitter.com/KellyMarsh86) please find her album here, [hack.af/horizon-hackathon](https://horizon-hackathon).
+Girl Scouts also hired a photographer for the hackathon of itself, [@KellyMarsh86](https://twitter.com/KellyMarsh86), please find her album here, [hack.af/horizon-hackathon](https://horizon-hackathon).
 
 ## Interested in a deeper dive of Horizon? 
 
