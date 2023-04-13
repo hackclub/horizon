@@ -33,13 +33,13 @@ We needed some time for some fun team-building activities and brain breaks, but 
 
 We knew one activity we wanted to do was cup stacking - where teams have a single rubber band with four strings attached, and they have to successfully stack their cups just by pulling on the strings.
 
-![Girl Scouts doing the cup stacking challenge](https://cloud-i0f6mdoba-hack-club-bot.vercel.app/0img_0156.jpg)
+<img width="700" alt="Girl Scouts doing the cup stacking challenge" src="https://cloud-i0f6mdoba-hack-club-bot.vercel.app/0img_0156.jpg">
 
 We had a couple ideas for another fun activity at 2pm, but decided to leave 2:30 - 4pm for extra coding time.
 
 I styled our document for easier viewing 😉, moved around some of the times, and ended up with this as our first iteration!
 
-![Our first schedule](https://cloud-3cl7w0vgc-hack-club-bot.vercel.app/0image.png)
+<img width="700" alt="Our first schedule" src="https://cloud-3cl7w0vgc-hack-club-bot.vercel.app/0image.png">
 
 ## Finalizing at the Hackathon
 We did end up only finalizing the actual schedule and printing it out the morning of, but we had a meeting on Friday night to discuss.
@@ -59,7 +59,7 @@ along with ideas for the project showcase.
 
 We ended up doing Just Dance and a game where groups need to keep the balloon in the air the longest, with our limited timeframe.
 
-![Playing the Balloon Game](https://cloud-dgbu4n7qx-hack-club-bot.vercel.app/0img_7834.jpg)
+<img width="700" alt="Playing the Balloon Game" src="https://cloud-dgbu4n7qx-hack-club-bot.vercel.app/0img_7834.jpg">
 
 For the project showcase, we ended up deciding that each team had one slide on a shared Google Slides to promote their project prior to a gallery walk.
 
@@ -68,10 +68,8 @@ I then moved around some of the times to leave some breathing room in between ac
 ### Naming the Rooms
 We also had to name the rooms where each activity/workshop was taking place. We wanted them to be more fun than just "Conference Room 1" so we named each Conference Room after a building in NYC. 
 
-
 ## Ready to Print!
 
 I looked it over with Belle, and the schedule was ready to print!
 
-![The Final Schedule](https://cloud-35b78mk2k-hack-club-bot.vercel.app/0image.png)
-
+<img width="700" alt="Playing the Balloon Game" src="https://cloud-35b78mk2k-hack-club-bot.vercel.app/0image.png">
