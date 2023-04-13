@@ -1,7 +1,6 @@
 # Swag(ger)
 Our team designed a series of swag for the event, including a custom patch in collaboration with Girl Scouts of Greater New York, t-shirts for all attendees, some badges that could be pinned to anything, and of-course stickers!! All designed by [@zoyahussain](https://github.com/zoya-hussain) and [@maggie](https://github.com/maggie-j-liu).
 
-
 ## 💖 Patch: 
 <img width="250" alt="Screenshot 2023-04-04 at 9 46 47 AM" src="https://user-images.githubusercontent.com/65808924/229813242-e3898054-90cb-4398-906a-185de0bf3310.png">
 
@@ -48,6 +47,6 @@ And here's the final PCB! I think it turned out really cute, although some of th
 <img width="350" alt="the back of the finished keychain, with all the parts soldered on" src="https://user-images.githubusercontent.com/63619830/229934881-857cba94-d100-46df-a89a-0a1806cc97e5.jpg">
 </div>
 
-### Other thoughts
+## Other thoughts on design
 - Consulting others on design (and creative arts in general) is a good idea when looking to improve upon designs, whether it be on construction or cohesiveness, as they can grant a "fresh eye", a new perspective on aspects that may be overlooked from the artist's viewpoint and ideas on accessibility. 
 - Using design resources like Dribbble, Behance, and even Pinterest can be useful when looking for inspiration, but personalizing designs and not yielding to impermanent design mictrotrends is optimal when considering the purpose of your design.
