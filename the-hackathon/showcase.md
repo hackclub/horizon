@@ -1,5 +1,7 @@
-# Project Showcase
+# 🚢 Project Showcase 
 We came up with the project showcase plan the night before the event, which was to have a single Google Slides presentation where each team was allotted one slide to "promote" their project in front of everyone in the Horizon Room where a gallery walk took place.
+
+<img width="700" alt="gallery walk" src="https://user-images.githubusercontent.com/65808924/231872432-c39d5d36-8954-4058-a44e-45350c902543.png">
 
 ## Initial Ideas
 Our initial goal for the project showcase was to use cookies as a voting implement. We wanted some superlatives that were represented by a type of Girl Scout cookie where the Girl Scouts could use a cookie to cast their "vote" for a superlative.
@@ -26,7 +28,8 @@ I created a Google Slides presentation with instructions for the Girl Scouts to 
 
 We then created a [hack.af](hack.af) link for the slideshow, which we wrote up on the whiteboards. 
 
-<img width="700" alt="A project slide" src="https://cloud-cg5i1r7ge-hack-club-bot.vercel.app/0image.png">
+<img width="700" alt="Attendees presenting their project" src="https://user-images.githubusercontent.com/65808924/231872574-e2065790-1f48-4d20-a0f1-8d70af94ae05.png">
+
 _what the project's slides generally looked like_
 
 ## The Showcase
