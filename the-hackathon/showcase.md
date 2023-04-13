@@ -4,7 +4,7 @@ We came up with the project showcase plan the night before the event, which was 
 ## Initial Ideas
 Our initial goal for the project showcase was to use cookies as a voting implement. We wanted some superlatives that were represented by a type of Girl Scout cookie where the Girl Scouts could use a cookie to cast their "vote" for a superlative.
 
-![Proposed Superlative Document](https://cloud-jyz83rv7w-hack-club-bot.vercel.app/0image.png)
+<img width="700" alt="Proposed superlative document" src="https://cloud-jyz83rv7w-hack-club-bot.vercel.app/0image.png">
 creds: [@audreyolafz](https://github.com/audreyolafz)
 
 Our idea morphed into giving each team their own cookie jar and then having a gallery walk where each participant voted by placing a cookie corresponding to a superlative into the project's jar.
@@ -22,12 +22,12 @@ We decided to combine all of these ideas into one!
 
 I created a Google Slides presentation with instructions for the Girl Scouts to use one slide for their project.
 
-![The Instruction Slide](https://cloud-iylo6lgwn-hack-club-bot.vercel.app/0image.png)
+<img width="700" alt="Instruction slides" src="https://cloud-iylo6lgwn-hack-club-bot.vercel.app/0image.png">
 
 We then created a [hack.af](hack.af) link for the slideshow, which we wrote up on the whiteboards. 
 
-![A project slide](https://cloud-cg5i1r7ge-hack-club-bot.vercel.app/0image.png)
-Here's what the project's slides generally looked like.
+<img width="700" alt="A project slide" src="https://cloud-cg5i1r7ge-hack-club-bot.vercel.app/0image.png">
+_what the project's slides generally looked like_
 
 ## The Showcase
 Around 4:15pm, we had to set up the tables for the gallery walk. We created a "science fair" style walk where the participants would stand behind the table and have their computer face the viewers. 
