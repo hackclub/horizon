@@ -19,7 +19,7 @@ We had the support of 5 Girl Scouts of Greater New York staff, 5 volunteers, and
 Since this was a beginner's hackathon, we focused on helping everyone build a project rather than compete for a prize which culminated in a science-fair like showcase with optional presentations at the end of the day. We had people build a fashion blog, website on their favourite things, game about their younger siblings, and more! It was truly incredible to write code that they could feel proud of and continue working on after the event!
 
 ### 🌈 More on the hackathon
-|Learn more|
+|Our experience working on each aspect...|
 |-----------|
 | [✨ Girl, you look good: venue set-up](./venue-setup.md) |
 | [📆 What the hack happened: the schedule](./schedule.md) |
