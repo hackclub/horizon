@@ -1,5 +1,5 @@
 ## Abby's Speech
-[@abbyfischler](https://github.com/abbyfischler) kicked off the evening with a short speech to celebrate all of us gathering for this inspiring evening:
+[@abbyfischler](https://github.com/abbyfischler) kicked off the evening with a short speech to celebrate all of us gathering for this inspiring evening to set the tone of the event:
 ![Abby Giving Speech](https://cloud-2ykeimeh3-hack-club-bot.vercel.app/0screenshot_2023-04-04_at_10.24.13_am-min.png)
 
 ```
