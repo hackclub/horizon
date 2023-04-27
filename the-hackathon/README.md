@@ -21,7 +21,7 @@ Since this was a beginner's hackathon, we focused on helping everyone build a pr
 ### 🌈 More on the hackathon
 |Our experience working on each aspect...|
 |-----------|
-| [✨ Girl, you look good: venue set-up](./venue-setup.md) |
+| [✨ Let's set up the Venue](./venue-setup.md) |
 | [📆 What the hack happened: the schedule](./schedule.md) |
 | [🤝 We're in it together: the girl scouts partnership](./partnershipwgs.md) |
 | [👩🏽‍💻 So you want to learn to code?: workshops](./workshops.md) |
