@@ -9,7 +9,7 @@ At Horizon, the Hack Clubbers that attended hosted workshops for the Girl Scouts
 ### We offered a total of 5 worshops:
 |Web Dev Track 🕸️|Alternative 🎮|
 |----------------|----------------|
-|Build your first website|[Build a game in JavaScript with](https://docs.google.com/presentation/d/1SE1vlyCV1iXa41H9sQ-lf8Xx045nrc-IjI97gJIneBI/edit#slide=id.g217309e400e_2_4) [Sprig](https://sprig.hackclub.com)|
+|[Build your first website](https://docs.google.com/presentation/d/1p_Ykz9SIZeb7GZOhtuK93dDn09WzARFNO3OgJ3C37Zg/edit?usp=sharing)|[Build a game in JavaScript with](https://docs.google.com/presentation/d/1SE1vlyCV1iXa41H9sQ-lf8Xx045nrc-IjI97gJIneBI/edit#slide=id.g217309e400e_2_4) [Sprig](https://sprig.hackclub.com)|
 |[Adding interactivity to your site](https://docs.google.com/presentation/d/1FqnhOup5CPZ_1ErrI1F_3WDyRw1i3mn3GC1RGGowsWY/edit?usp=sharing)|[Making Art with Code](https://hack.af/generative-art-workshop)|
 |- |[Jeopardy w/ Makey Makey](https://makeymakey.com/blogs/how-to-instructions/buzzer-app-creating-quiz-show-buttons)|
 
