@@ -11,6 +11,11 @@ In designing the patch for Horizon, I researched previous designs from Girl Scou
 
 For shirt and logo design, I sampled the text from the patch for consistency with additional stylization, and drafted some design variations and formattings. In its initial stages, the Horizon logo featured a skyline, which is an element I wished to feature in the final designs (as Horizon was first dubbed "metropolis"). Once again, I used Procreate due to my familiarity with the program, but I struggled to maintain the quality of designs due to the lack of an 'Export with SVG' option.
 
+## 🥼 Crewnecks:
+<img alt="4 girls with a crewneck that says One Line at a Time with their backs facing the viewer" width="700" src="https://user-images.githubusercontent.com/62197228/230696808-a89caf77-067a-4c7c-9754-f6f4e186357e.jpg">
+
+Designing the crewnecks was a challenge. @abbyfischler had a whole moodboard made of what she like and didn't like and it was my responsibility to figure out what in the world this crewneck looked like: fashionable, but with a giant Hack Club wordmark on the front. Working in combination with both Adobe Illustrator and Figma, I created this organic shape using the warp and flag tools in Illustrator and paired it with the stroke and fill tools on Figma to create the designs. Abby had the wonderful idea to put "One Line at a Time" on the back which I loved, so we went with it. After numerous rounds of revisions and both Abby and I saying, "yeah, actually I don't like it," we ended up with the design you see above. -[@sarthak](https://github.com/sarthaktexas)
+
 ## 📍 Badges: 
 <img width="700" alt="Screenshot 2023-04-04 at 9 50 11 AM" src="https://user-images.githubusercontent.com/65808924/229813989-e65589b4-012f-41bb-a848-7feb0082b71a.png">
 
