@@ -14,7 +14,7 @@ For shirt and logo design, I sampled the text from the patch for consistency wit
 ## 📍 Badges: 
 <img width="700" alt="Screenshot 2023-04-04 at 9 50 11 AM" src="https://user-images.githubusercontent.com/65808924/229813989-e65589b4-012f-41bb-a848-7feb0082b71a.png">
 
-When designing pins for Horizon, I used both Procreate and Figma (Procreate for Horizon pins, and Figma for superlative pins). For the Horizon pins, I wanted to use a hot pink and dark green color combination, drawing from the color palette, due to their classic and balanced pairing. For the superlative pins, I brainstormed with Sarthak and used a color-blocking tool in Figma to achieve a "vectorized" art style for the cookie designs, and placed banners on top of the cookies, akin to sashes worn by Girl Scouts. 
+When designing pins for Horizon, I used both Procreate and Figma (Procreate for Horizon pins, and Figma for superlative pins). For the Horizon pins, I wanted to use a hot pink and dark green color combination, drawing from the color palette, due to their classic and balanced pairing. For the superlative pins, I brainstormed with [@sarthak](https://github.com/sarthaktexas) and used a color-blocking tool in Figma to achieve a "vectorized" art style for the cookie designs, and placed banners on top of the cookies, akin to sashes worn by Girl Scouts. 
 
 ## 🔑 PCB Keychains
 
