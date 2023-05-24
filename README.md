@@ -44,7 +44,7 @@ Across this repository, you'll find awesome photographs from the weekend by [@av
 
 We also have a collaborative album amongst Hack Clubbers: [hack.af/horizon-collab](https://hack.af/horizon-collab). 
 
-Girl Scouts also hired a photographer for the hackathon of itself, [@KellyMarsh86](https://twitter.com/KellyMarsh86), please find her album here, [hack.af/horizon-hackathon](https://horizon-hackathon).
+Girl Scouts also hired a photographer for the hackathon of itself, [@KellyMarsh86](https://twitter.com/KellyMarsh86), please find her album here, [hack.af/horizon-hackathon](https://hack.af/horizon-hackathon).
 
 ## Interested in a deeper dive of Horizon? 
 
