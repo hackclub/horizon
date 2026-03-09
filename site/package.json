@@ -10,14 +10,14 @@
     "format": "prettier --ignore-path ./.prettierignore --write ."
   },
   "dependencies": {
-    "eslint": "8.29.0",
-    "eslint-config-next": "13.0.6",
-    "next": "^13.0.6",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "eslint": "10.0.3",
+    "eslint-config-next": "16.1.6",
+    "next": "^16.1.6",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
   },
   "devDependencies": {
-    "prettier": "^2.8.0",
-    "sass": "^1.57.1"
+    "prettier": "^3.8.1",
+    "sass": "^1.97.3"
   }
 }
