@@ -1,6 +1,7 @@
 import '../styles/globals.scss'
 import Head from 'next/head'
 import Script from 'next/script'
+import Banner from '../components/Banner'
 
 export default function App({ Component, pageProps }) {
   return (
@@ -89,6 +90,7 @@ export default function App({ Component, pageProps }) {
         </title>
       </Head>
       <Script defer data-domain="horizon.hackclub.com" src="https://plausible.io/js/script.js" />
+      <Banner>Did you mean <a href="https://horizons.hackclub.com"><img src="/images/banner.svg" alt="Horizons" /></a>? <a href="https://horizons.hackclub.com">click here!</a></Banner>
       <Component {...pageProps} />
     </>
   )
