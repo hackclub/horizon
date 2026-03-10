@@ -20,6 +20,12 @@ function Lines() {
         .line-1 { background-color: #f5a623; }
         .line-2 { background-color: #e8638c; }
         .line-3 { background-color: #3d3b72; }
+
+        @media (max-width: 600px) {
+          .lines {
+            display: none;
+          }
+        }
       `}</style>
     </div>
   )
@@ -67,7 +73,6 @@ export default function Banner({ children }) {
 
         p {
           margin: 0;
-          white-space: nowrap;
           padding: 0 0.5rem;
           font-family: 'Cook Widetype', sans-serif;
           position: relative;
@@ -77,6 +82,13 @@ export default function Banner({ children }) {
         p :global(img) {
           height: 1.2em;
           vertical-align: middle;
+        }
+
+        @media (max-width: 600px) {
+          .banner {
+            font-size: 1rem;
+            padding: 0.6rem 1rem;
+          }
         }
       `}</style>
     </div>
